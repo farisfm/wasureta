@@ -1,0 +1,5562 @@
+[
+  {
+    "ID": "[36, 1]",
+    "Kanji": "あいます",
+    "penjelas kanji": "事故に～",
+    "Kana": "あいます",
+    "penjelas kana": "じこに～",
+    "Romaji": "aimasu ",
+    "penjelas romaji": "jikoni~",
+    "Meaning (EN)": "encounter [an accident]"
+  },
+  {
+    "ID": "[45, 30]",
+    "Kanji": "あいます",
+    "penjelas kanji": "事故に～",
+    "Kana": "あいます",
+    "penjelas kana": "じこに～",
+    "Romaji": "aimasu ",
+    "penjelas romaji": "jikoni~",
+    "Meaning (EN)": "encounter [an accident]"
+  },
+  {
+    "ID": "[21, 5]",
+    "Kanji": "あります",
+    "penjelas kanji": "お祭りが～",
+    "Kana": "あります",
+    "penjelas kana": "おまつりが～",
+    "Romaji": "arimasu ",
+    "penjelas romaji": "omatsuriga~",
+    "Meaning (EN)": "[a festival] be held, take place"
+  },
+  {
+    "ID": "[33, 12]",
+    "Kanji": "あります",
+    "penjelas kanji": "電話が～",
+    "Kana": "あります",
+    "penjelas kana": "でんわが～",
+    "Romaji": "arimasu ",
+    "penjelas romaji": "denwaga~",
+    "Meaning (EN)": "have [a telephone call]"
+  },
+  {
+    "ID": "[11, 1]",
+    "Kanji": "います",
+    "penjelas kanji": "子どもが～",
+    "Kana": "います",
+    "penjelas kana": "こどもが～",
+    "Romaji": "imasu ",
+    "penjelas romaji": "kodomoga~",
+    "Meaning (EN)": "have [a child]"
+  },
+  {
+    "ID": "[11, 2]",
+    "Kanji": "います",
+    "penjelas kanji": "日本に～",
+    "Kana": "います",
+    "penjelas kana": "にほんに～",
+    "Romaji": "imasu ",
+    "penjelas romaji": "nihonni~",
+    "Meaning (EN)": "stay, be [in Japan]"
+  },
+  {
+    "ID": "[40, 77]",
+    "Kanji": "うわします",
+    "penjelas kanji": "",
+    "Kana": "うわさします",
+    "penjelas kana": "",
+    "Romaji": "uwasashimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "gossip"
+  },
+  {
+    "ID": "[50, 9]",
+    "Kanji": "お目に かかります",
+    "penjelas kanji": "",
+    "Kana": "おめに かかります",
+    "penjelas kana": "",
+    "Romaji": "omeni kakarimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "meet (humble equivalent of あいます)"
+  },
+  {
+    "ID": "[34, 29]",
+    "Kanji": "お茶を たてます",
+    "penjelas kanji": "",
+    "Kana": "おちゃを たてます",
+    "penjelas kana": "",
+    "Romaji": "ochawo tatemasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "make (green) tea (at a tea ceremony)"
+  },
+  {
+    "ID": "[35, 58]",
+    "Kanji": "かかります",
+    "penjelas kanji": "電話が～",
+    "Kana": "かかります",
+    "penjelas kana": "でんわが～",
+    "Romaji": "kakarimasu ",
+    "penjelas romaji": "denwaga~",
+    "Meaning (EN)": "get through [on the telephone]"
+  },
+  {
+    "ID": "[7, 9]",
+    "Kanji": "かけます",
+    "penjelas kanji": "電話を～",
+    "Kana": "かけます",
+    "penjelas kana": "でんわを～",
+    "Romaji": "kakemasu ",
+    "penjelas romaji": "denwawo~",
+    "Meaning (EN)": "make [a telephone call]"
+  },
+  {
+    "ID": "[22, 4]",
+    "Kanji": "かけます",
+    "penjelas kanji": "眼鏡を～",
+    "Kana": "かけます",
+    "penjelas kana": "めがねを～",
+    "Romaji": "kakemasu ",
+    "penjelas romaji": "meganewo~",
+    "Meaning (EN)": "put on [glasses]"
+  },
+  {
+    "ID": "[50, 25]",
+    "Kanji": "かないます",
+    "penjelas kanji": "夢が～",
+    "Kana": "かないます",
+    "penjelas kana": "ゆめが～",
+    "Romaji": "kanaimasu ",
+    "penjelas romaji": "yumega~",
+    "Meaning (EN)": "[dream] be realized, come true"
+  },
+  {
+    "ID": "[49, 9]",
+    "Kanji": "ご覧に なります",
+    "penjelas kanji": "",
+    "Kana": "ごらんに なります",
+    "penjelas kana": "",
+    "Romaji": "goranni narimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "see, look at (respectful equivalent of みます)"
+  },
+  {
+    "ID": "[34, 8]",
+    "Kanji": "さします",
+    "penjelas kanji": "傘を～",
+    "Kana": "さします",
+    "penjelas kana": "かさを～",
+    "Romaji": "sashimasu ",
+    "penjelas romaji": "kasawo~",
+    "Meaning (EN)": "put up [an umbrella]"
+  },
+  {
+    "ID": "[47, 37]",
+    "Kanji": "さします",
+    "penjelas kanji": "傘を～",
+    "Kana": "さします",
+    "penjelas kana": "かさを～",
+    "Romaji": "sashimasu ",
+    "penjelas romaji": "kasawo~",
+    "Meaning (EN)": "put up [an umbrella]"
+  },
+  {
+    "ID": "[47, 6]",
+    "Kanji": "します",
+    "penjelas kanji": "音／声が～",
+    "Kana": "します",
+    "penjelas kana": "おと／こえが～",
+    "Romaji": "shimasu ",
+    "penjelas romaji": "oto/koega~",
+    "Meaning (EN)": "[sound/voice] be heard"
+  },
+  {
+    "ID": "[47, 7]",
+    "Kanji": "します",
+    "penjelas kanji": "味が～",
+    "Kana": "します",
+    "penjelas kana": "あじが～",
+    "Romaji": "shimasu ",
+    "penjelas romaji": "ajiga~",
+    "Meaning (EN)": "taste"
+  },
+  {
+    "ID": "[29, 54]",
+    "Kanji": "すきます",
+    "penjelas kanji": "道が～",
+    "Kana": "すきます",
+    "penjelas kana": "みちが～",
+    "Romaji": "sukimasu ",
+    "penjelas romaji": "michiga~",
+    "Meaning (EN)": "[a road] get empty"
+  },
+  {
+    "ID": "[32, 12]",
+    "Kanji": "すきます",
+    "penjelas kanji": "道が～",
+    "Kana": "すきます",
+    "penjelas kana": "みちが～",
+    "Romaji": "sukimasu ",
+    "penjelas romaji": "michiga~",
+    "Meaning (EN)": "[a road] get less crowded"
+  },
+  {
+    "ID": "[29, 3]",
+    "Kanji": "つきます",
+    "penjelas kanji": "電気が～",
+    "Kana": "つきます",
+    "penjelas kana": "でんきが～",
+    "Romaji": "tsukimasu ",
+    "penjelas romaji": "denkiga~",
+    "Meaning (EN)": "[a light] come on, be turned on"
+  },
+  {
+    "ID": "[27, 5]",
+    "Kanji": "できます",
+    "penjelas kanji": "道が～",
+    "Kana": "できます",
+    "penjelas kana": "みちが～",
+    "Romaji": "dekimasu ",
+    "penjelas romaji": "michiga~",
+    "Meaning (EN)": "[a road] be made, be completed, come into existence"
+  },
+  {
+    "ID": "[32, 5]",
+    "Kanji": "やみます",
+    "penjelas kanji": "雨が～",
+    "Kana": "やみます",
+    "penjelas kana": "あめが～",
+    "Romaji": "yamimasu ",
+    "penjelas romaji": "amega~",
+    "Meaning (EN)": "[rain] stop"
+  },
+  {
+    "ID": "[16, 59]",
+    "Kanji": "やめます",
+    "penjelas kanji": "会社を～",
+    "Kana": "やめます",
+    "penjelas kana": "かいしゃを～",
+    "Romaji": "yamemasu ",
+    "penjelas romaji": "kaishawo~",
+    "Meaning (EN)": "quit or retire from [a company], stop, give up"
+  },
+  {
+    "ID": "[21, 8]",
+    "Kanji": "やめます",
+    "penjelas kanji": "会社を～",
+    "Kana": "やめます",
+    "penjelas kana": "かいしゃを～",
+    "Romaji": "yamemasu ",
+    "penjelas romaji": "kaishawo~",
+    "Meaning (EN)": "quit or retire from [a company], stop, give up"
+  },
+  {
+    "ID": "[43, 3]",
+    "Kanji": "上がります",
+    "penjelas kanji": "値段が～",
+    "Kana": "あがります",
+    "penjelas kana": "ねだんが～",
+    "Romaji": "agarimasu ",
+    "penjelas romaji": "nedanga~",
+    "Meaning (EN)": "[the price] rise"
+  },
+  {
+    "ID": "[33, 51]",
+    "Kanji": "上げます",
+    "penjelas kanji": "",
+    "Kana": "あげます",
+    "penjelas kana": "",
+    "Romaji": "agemasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "raise, lift up"
+  },
+  {
+    "ID": "[41, 4]",
+    "Kanji": "上げます",
+    "penjelas kanji": "",
+    "Kana": "あげます",
+    "penjelas kana": "",
+    "Romaji": "agemasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "raise, lift up"
+  },
+  {
+    "ID": "[43, 4]",
+    "Kanji": "下がります",
+    "penjelas kanji": "値段が～",
+    "Kana": "さがります",
+    "penjelas kana": "ねだんが～",
+    "Romaji": "sagarimasu ",
+    "penjelas romaji": "nedanga~",
+    "Meaning (EN)": "[the price] fall, drop"
+  },
+  {
+    "ID": "[33, 52]",
+    "Kanji": "下げます",
+    "penjelas kanji": "",
+    "Kana": "さげます",
+    "penjelas kana": "",
+    "Romaji": "sagemasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "lower, pull down"
+  },
+  {
+    "ID": "[41, 5]",
+    "Kanji": "下げます",
+    "penjelas kanji": "",
+    "Kana": "さげます",
+    "penjelas kana": "",
+    "Romaji": "sagemasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "lower, pull down"
+  },
+  {
+    "ID": "[16, 7]",
+    "Kanji": "下ろします",
+    "penjelas kanji": "お金を～",
+    "Kana": "おろします",
+    "penjelas kana": "おかねを～",
+    "Romaji": "oroshimasu ",
+    "penjelas romaji": "okanewo~",
+    "Meaning (EN)": "withdraw"
+  },
+  {
+    "ID": "[38, 49]",
+    "Kanji": "世話を します",
+    "penjelas kanji": "",
+    "Kana": "せわを します",
+    "penjelas kana": "",
+    "Romaji": "sewawo shimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "take care of"
+  },
+  {
+    "ID": "[47, 31]",
+    "Kanji": "世話を します",
+    "penjelas kanji": "",
+    "Kana": "せわを します",
+    "penjelas kana": "",
+    "Romaji": "sewawo shimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "take care of"
+  },
+  {
+    "ID": "[48, 3]",
+    "Kanji": "世話を します",
+    "penjelas kanji": "",
+    "Kana": "せわを します",
+    "penjelas kana": "",
+    "Romaji": "sewawo shimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "take care of"
+  },
+  {
+    "ID": "[39, 59]",
+    "Kanji": "並びます",
+    "penjelas kanji": "",
+    "Kana": "ならびます",
+    "penjelas kana": "",
+    "Romaji": "narabimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "stand in a queue, line up"
+  },
+  {
+    "ID": "[42, 5]",
+    "Kanji": "並びます",
+    "penjelas kanji": "",
+    "Kana": "ならびます",
+    "penjelas kana": "",
+    "Romaji": "narabimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "stand in a queue, line up"
+  },
+  {
+    "ID": "[30, 4]",
+    "Kanji": "並べます",
+    "penjelas kanji": "",
+    "Kana": "ならべます",
+    "penjelas kana": "",
+    "Romaji": "narabemasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "arrange, line up"
+  },
+  {
+    "ID": "[16, 1]",
+    "Kanji": "乗ります",
+    "penjelas kanji": "電車に～",
+    "Kana": "のります",
+    "penjelas kana": "でんしゃに～",
+    "Romaji": "norimasu ",
+    "penjelas romaji": "denshani~",
+    "Meaning (EN)": "ride, get on [a train]"
+  },
+  {
+    "ID": "[16, 3]",
+    "Kanji": "乗り換えます",
+    "penjelas kanji": "",
+    "Kana": "のりかえます",
+    "penjelas kana": "",
+    "Romaji": "norikaemasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "change (trains, etc.)"
+  },
+  {
+    "ID": "[44, 4]",
+    "Kanji": "乾きます",
+    "penjelas kanji": "シャツが～",
+    "Kana": "かわきます",
+    "penjelas kana": "シャツが～",
+    "Romaji": "kawakimasu ",
+    "penjelas romaji": "shatsuga~",
+    "Meaning (EN)": "[a shirt] dry"
+  },
+  {
+    "ID": "[18, 9]",
+    "Kanji": "予約します",
+    "penjelas kanji": "",
+    "Kana": "よやくします",
+    "penjelas kana": "",
+    "Romaji": "yoyakushimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "reserve, book"
+  },
+  {
+    "ID": "[30, 10]",
+    "Kanji": "予習します",
+    "penjelas kanji": "",
+    "Kana": "よしゅうします",
+    "penjelas kana": "",
+    "Romaji": "yoshūshimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "prepare one's lesson"
+  },
+  {
+    "ID": "[33, 75]",
+    "Kanji": "亡くなります",
+    "penjelas kanji": "",
+    "Kana": "なくなります",
+    "penjelas kana": "",
+    "Romaji": "nakunarimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "pass away, die"
+  },
+  {
+    "ID": "[38, 58]",
+    "Kanji": "亡くなります",
+    "penjelas kanji": "",
+    "Kana": "なくなります",
+    "penjelas kana": "",
+    "Romaji": "nakunarimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "pass away (euphemistic expression for しにます(L.39))"
+  },
+  {
+    "ID": "[47, 3]",
+    "Kanji": "亡くなります",
+    "penjelas kanji": "",
+    "Kana": "なくなります",
+    "penjelas kana": "",
+    "Romaji": "nakunarimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "pass away (euphemistic expression for しにます)"
+  },
+  {
+    "ID": "[35, 52]",
+    "Kanji": "交わります",
+    "penjelas kanji": "",
+    "Kana": "まじわります",
+    "penjelas kana": "",
+    "Romaji": "majiwarimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "keep company with"
+  },
+  {
+    "ID": "[29, 10]",
+    "Kanji": "付きます",
+    "penjelas kanji": "ポケットが～",
+    "Kana": "つきます",
+    "penjelas kana": "ポケットが～",
+    "Romaji": "tsukimasu ",
+    "penjelas romaji": "pokettoga~",
+    "Meaning (EN)": "[a pocket] be attached"
+  },
+  {
+    "ID": "[27, 37]",
+    "Kanji": "付けます",
+    "penjelas kanji": "",
+    "Kana": "つけます",
+    "penjelas kana": "",
+    "Romaji": "tsukemasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "attach, put on"
+  },
+  {
+    "ID": "[35, 4]",
+    "Kanji": "付けます",
+    "penjelas kanji": "丸を～",
+    "Kana": "つけます",
+    "penjelas kana": "まるを～",
+    "Romaji": "tsukemasu ",
+    "penjelas romaji": "maruwo~",
+    "Meaning (EN)": "draw [a circle], mark [with a circle], add"
+  },
+  {
+    "ID": "[48, 31]",
+    "Kanji": "代わりを します",
+    "penjelas kanji": "",
+    "Kana": "かわりを します",
+    "penjelas kana": "",
+    "Romaji": "kawariwo shimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "be a substitute, be a replacement"
+  },
+  {
+    "ID": "[35, 55]",
+    "Kanji": "仲よく します",
+    "penjelas kanji": "",
+    "Kana": "なかよく します",
+    "penjelas kana": "",
+    "Romaji": "nakayoku shimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "be on good terms with"
+  },
+  {
+    "ID": "[4, 4]",
+    "Kanji": "休みます",
+    "penjelas kanji": "",
+    "Kana": "やすみます",
+    "penjelas kana": "",
+    "Romaji": "yasumimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "take a rest, take a holiday"
+  },
+  {
+    "ID": "[11, 4]",
+    "Kanji": "休みます",
+    "penjelas kanji": "会社を～",
+    "Kana": "やすみます",
+    "penjelas kana": "かいしゃを～",
+    "Romaji": "yasumimasu ",
+    "penjelas romaji": "kaishawo~",
+    "Meaning (EN)": "take a day off [work]"
+  },
+  {
+    "ID": "[49, 36]",
+    "Kanji": "休みます",
+    "penjelas kanji": "",
+    "Kana": "やすみます",
+    "penjelas kana": "",
+    "Romaji": "yasumimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "go to bed, sleep"
+  },
+  {
+    "ID": "[31, 6]",
+    "Kanji": "休憩します",
+    "penjelas kanji": "",
+    "Kana": "きゅうけいします",
+    "penjelas kana": "",
+    "Romaji": "kyūkeishimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "take a break, take a rest"
+  },
+  {
+    "ID": "[6, 11]",
+    "Kanji": "会います",
+    "penjelas kanji": "友達に～",
+    "Kana": "あいます",
+    "penjelas kana": "ともだちに～",
+    "Romaji": "aimasu ",
+    "penjelas romaji": "tomodachini~",
+    "Meaning (EN)": "meet [a friend]"
+  },
+  {
+    "ID": "[33, 8]",
+    "Kanji": "伝えます",
+    "penjelas kanji": "",
+    "Kana": "つたえます",
+    "penjelas kana": "",
+    "Romaji": "tsutaemasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "convey"
+  },
+  {
+    "ID": "[50, 8]",
+    "Kanji": "伺います",
+    "penjelas kanji": "",
+    "Kana": "うかがいます",
+    "penjelas kana": "",
+    "Romaji": "ukagaimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "ask, hear, visit (humble equivalent of ききます and いきます)"
+  },
+  {
+    "ID": "[38, 45]",
+    "Kanji": "似て います",
+    "penjelas kanji": "",
+    "Kana": "にて います",
+    "penjelas kana": "",
+    "Romaji": "nite imasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "resemble, be like"
+  },
+  {
+    "ID": "[15, 5]",
+    "Kanji": "住ます",
+    "penjelas kanji": "",
+    "Kana": "すみます",
+    "penjelas kana": "",
+    "Romaji": "sumimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "be going to live"
+  },
+  {
+    "ID": "[15, 29]",
+    "Kanji": "住んで います",
+    "penjelas kanji": "大阪に～",
+    "Kana": "すんで います",
+    "penjelas kana": "おおさかに～",
+    "Romaji": "sunde imasu ",
+    "penjelas romaji": "ōsakani~",
+    "Meaning (EN)": "live [in Osaka]"
+  },
+  {
+    "ID": "[15, 2]",
+    "Kanji": "作ります、造ります",
+    "penjelas kanji": "",
+    "Kana": "つくります",
+    "penjelas kana": "",
+    "Romaji": "tsukurimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "make, produce"
+  },
+  {
+    "ID": "[14, 12]",
+    "Kanji": "使います",
+    "penjelas kanji": "",
+    "Kana": "つかいます",
+    "penjelas kana": "",
+    "Romaji": "tsukaimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "use"
+  },
+  {
+    "ID": "[15, 27]",
+    "Kanji": "使います",
+    "penjelas kanji": "",
+    "Kana": "つかいます",
+    "penjelas kana": "",
+    "Romaji": "tsukaimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "use"
+  },
+  {
+    "ID": "[45, 1]",
+    "Kanji": "信じます",
+    "penjelas kanji": "",
+    "Kana": "しんじます",
+    "penjelas kana": "",
+    "Romaji": "shinjimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "believe, trust"
+  },
+  {
+    "ID": "[20, 3]",
+    "Kanji": "修理します",
+    "penjelas kanji": "",
+    "Kana": "しゅうりします",
+    "penjelas kana": "",
+    "Romaji": "shūrishimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "repair"
+  },
+  {
+    "ID": "[29, 48]",
+    "Kanji": "倒れます",
+    "penjelas kanji": "",
+    "Kana": "たおれます",
+    "penjelas kana": "",
+    "Romaji": "taoremasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "fall down"
+  },
+  {
+    "ID": "[39, 2]",
+    "Kanji": "倒れます",
+    "penjelas kanji": "ビルが～",
+    "Kana": "たおれます",
+    "penjelas kana": "ビルが～",
+    "Romaji": "taoremasu ",
+    "penjelas romaji": "biruga~",
+    "Meaning (EN)": "[a building] fall down"
+  },
+  {
+    "ID": "[7, 6]",
+    "Kanji": "借ります",
+    "penjelas kanji": "",
+    "Kana": "かります",
+    "penjelas kana": "",
+    "Romaji": "karimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "borrow"
+  },
+  {
+    "ID": "[4, 3]",
+    "Kanji": "働きます",
+    "penjelas kanji": "",
+    "Kana": "はたらきます",
+    "penjelas kana": "",
+    "Romaji": "hatarakimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "work"
+  },
+  {
+    "ID": "[45, 20]",
+    "Kanji": "優勝します",
+    "penjelas kanji": "",
+    "Kana": "ゆうしょうします",
+    "penjelas kana": "",
+    "Romaji": "yūshōshimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "win the championship, come first"
+  },
+  {
+    "ID": "[13, 35]",
+    "Kanji": "入ります",
+    "penjelas kanji": "喫茶店に～",
+    "Kana": "はいります",
+    "penjelas kana": "きっさてんに～",
+    "Romaji": "hairimasu ",
+    "penjelas romaji": "kissatenni~",
+    "Meaning (EN)": "enter [a coffee shop]"
+  },
+  {
+    "ID": "[14, 18]",
+    "Kanji": "入ります",
+    "penjelas kanji": "喫茶店に～",
+    "Kana": "はいります",
+    "penjelas kana": "きっさてんに～",
+    "Romaji": "hairimasu ",
+    "penjelas romaji": "kissatenni~",
+    "Meaning (EN)": "enter [a café]"
+  },
+  {
+    "ID": "[16, 8]",
+    "Kanji": "入ります",
+    "penjelas kanji": "大学に～",
+    "Kana": "はいります",
+    "penjelas kana": "だいがくに～",
+    "Romaji": "hairimasu ",
+    "penjelas romaji": "daigakuni~",
+    "Meaning (EN)": "enter [university]"
+  },
+  {
+    "ID": "[17, 14]",
+    "Kanji": "入ります",
+    "penjelas kanji": "おふろに～",
+    "Kana": "はいります",
+    "penjelas kana": "おふろに～",
+    "Romaji": "hairimasu ",
+    "penjelas romaji": "ofuroni~",
+    "Meaning (EN)": "take [a bath]"
+  },
+  {
+    "ID": "[16, 5]",
+    "Kanji": "入れます",
+    "penjelas kanji": "",
+    "Kana": "いれます",
+    "penjelas kana": "",
+    "Romaji": "iremasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "put in, insert"
+  },
+  {
+    "ID": "[38, 6]",
+    "Kanji": "入れます",
+    "penjelas kanji": "電源を～",
+    "Kana": "いれます",
+    "penjelas kana": "でんげんを～",
+    "Romaji": "iremasu ",
+    "penjelas romaji": "dengenwo~",
+    "Meaning (EN)": "turn on [the power switch]"
+  },
+  {
+    "ID": "[35, 8]",
+    "Kanji": "入力します",
+    "penjelas kanji": "",
+    "Kana": "にゅうりょくします",
+    "penjelas kana": "",
+    "Romaji": "nyūryokushimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "input"
+  },
+  {
+    "ID": "[46, 46]",
+    "Kanji": "入力します",
+    "penjelas kanji": "",
+    "Kana": "にゅうりょくします",
+    "penjelas kana": "",
+    "Romaji": "nyūryokushimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "input"
+  },
+  {
+    "ID": "[31, 42]",
+    "Kanji": "入学します",
+    "penjelas kanji": "大学に～",
+    "Kana": "にゅうがくします",
+    "penjelas kana": "だいがくに～",
+    "Romaji": "nyūgakushimasu ",
+    "penjelas romaji": "daigakuni~",
+    "Meaning (EN)": "enter [a university]"
+  },
+  {
+    "ID": "[46, 5]",
+    "Kanji": "入学します",
+    "penjelas kanji": "大学に～",
+    "Kana": "にゅうがくします",
+    "penjelas kana": "だいがくに～",
+    "Romaji": "nyūgakushimasu ",
+    "penjelas romaji": "daigakuni~",
+    "Meaning (EN)": "enter [a university]"
+  },
+  {
+    "ID": "[38, 4]",
+    "Kanji": "入院します",
+    "penjelas kanji": "",
+    "Kana": "にゅういんします",
+    "penjelas kana": "",
+    "Romaji": "nyūinshimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "enter hospital"
+  },
+  {
+    "ID": "[32, 10]",
+    "Kanji": "冷やします",
+    "penjelas kanji": "",
+    "Kana": "ひやします",
+    "penjelas kana": "",
+    "Romaji": "hiyashimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "cool"
+  },
+  {
+    "ID": "[17, 6]",
+    "Kanji": "出かけます",
+    "penjelas kanji": "",
+    "Kana": "でかけます",
+    "penjelas kana": "",
+    "Romaji": "dekakemasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "go out"
+  },
+  {
+    "ID": "[13, 34]",
+    "Kanji": "出します",
+    "penjelas kanji": "手紙を～",
+    "Kana": "だします",
+    "penjelas kana": "てがみを～",
+    "Romaji": "dashimasu ",
+    "penjelas romaji": "tegamiwo~",
+    "Meaning (EN)": "send [a letter]"
+  },
+  {
+    "ID": "[16, 6]",
+    "Kanji": "出します",
+    "penjelas kanji": "",
+    "Kana": "だします",
+    "penjelas kana": "",
+    "Romaji": "dashimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "take out, hand in, send"
+  },
+  {
+    "ID": "[17, 36]",
+    "Kanji": "出します",
+    "penjelas kanji": "レポートを～",
+    "Kana": "だします",
+    "penjelas kana": "レポートを～",
+    "Romaji": "dashimasu ",
+    "penjelas romaji": "repōtowo~",
+    "Meaning (EN)": "hand in [a report]"
+  },
+  {
+    "ID": "[26, 32]",
+    "Kanji": "出します",
+    "penjelas kanji": "ごみを～",
+    "Kana": "だします",
+    "penjelas kana": "ごみを～",
+    "Romaji": "dashimasu ",
+    "penjelas romaji": "gomiwo~",
+    "Meaning (EN)": "put out [the rubbish]"
+  },
+  {
+    "ID": "[49, 20]",
+    "Kanji": "出します",
+    "penjelas kanji": "熱を～",
+    "Kana": "だします",
+    "penjelas kana": "ねつを～",
+    "Romaji": "dashimasu ",
+    "penjelas romaji": "netsuwo~",
+    "Meaning (EN)": "run [a fever]"
+  },
+  {
+    "ID": "[13, 36]",
+    "Kanji": "出ます",
+    "penjelas kanji": "喫茶店を～",
+    "Kana": "でます",
+    "penjelas kana": "きっさてんを～",
+    "Romaji": "demasu ",
+    "penjelas romaji": "kissatenwo~",
+    "Meaning (EN)": "go out [of a coffee shop]"
+  },
+  {
+    "ID": "[14, 19]",
+    "Kanji": "出ます",
+    "penjelas kanji": "喫茶店を～",
+    "Kana": "でます",
+    "penjelas kana": "きっさてんを～",
+    "Romaji": "demasu ",
+    "penjelas romaji": "kissatenwo~",
+    "Meaning (EN)": "go out [of a café]"
+  },
+  {
+    "ID": "[16, 9]",
+    "Kanji": "出ます",
+    "penjelas kanji": "大学を～",
+    "Kana": "でます",
+    "penjelas kana": "だいがくを～",
+    "Romaji": "demasu ",
+    "penjelas romaji": "daigakuwo~",
+    "Meaning (EN)": "graduate from [university]"
+  },
+  {
+    "ID": "[23, 6]",
+    "Kanji": "出ます",
+    "penjelas kanji": "お釣りが～",
+    "Kana": "でます",
+    "penjelas kana": "おつりが～",
+    "Romaji": "demasu ",
+    "penjelas romaji": "otsuriga~",
+    "Meaning (EN)": "[change] come out"
+  },
+  {
+    "ID": "[32, 13]",
+    "Kanji": "出ます",
+    "penjelas kanji": "試合に～",
+    "Kana": "でます",
+    "penjelas kana": "しあいに～",
+    "Romaji": "demasu ",
+    "penjelas romaji": "shiaini~",
+    "Meaning (EN)": "participate [in the match]"
+  },
+  {
+    "ID": "[32, 14]",
+    "Kanji": "出ます",
+    "penjelas kanji": "パーティーに～",
+    "Kana": "でます",
+    "penjelas kana": "パーティーに～",
+    "Romaji": "demasu ",
+    "penjelas romaji": "pāteiini~",
+    "Meaning (EN)": "attend [a party]"
+  },
+  {
+    "ID": "[36, 42]",
+    "Kanji": "出ます",
+    "penjelas kanji": "試合に～",
+    "Kana": "でます",
+    "penjelas kana": "しあいに～",
+    "Romaji": "demasu ",
+    "penjelas romaji": "shiaini~",
+    "Meaning (EN)": "participate [in the game]"
+  },
+  {
+    "ID": "[40, 9]",
+    "Kanji": "出ます",
+    "penjelas kanji": "問題が～",
+    "Kana": "でます",
+    "penjelas kana": "もんだいが～",
+    "Romaji": "demasu ",
+    "penjelas romaji": "mondaiga~",
+    "Meaning (EN)": "[problems] be on the test"
+  },
+  {
+    "ID": "[42, 41]",
+    "Kanji": "出ます",
+    "penjelas kanji": "ボーナスが～",
+    "Kana": "でます",
+    "penjelas kana": "ボーナスが～",
+    "Romaji": "demasu ",
+    "penjelas romaji": "bōnasuga~",
+    "Meaning (EN)": "[bonus] be paid"
+  },
+  {
+    "ID": "[46, 3]",
+    "Kanji": "出ます",
+    "penjelas kanji": "バスが～",
+    "Kana": "でます",
+    "penjelas kana": "バスが～",
+    "Romaji": "demasu ",
+    "penjelas romaji": "basuga~",
+    "Meaning (EN)": "[a bus] leave, depart"
+  },
+  {
+    "ID": "[46, 48]",
+    "Kanji": "出ます",
+    "penjelas kanji": "本が～",
+    "Kana": "でます",
+    "penjelas kana": "ほんが～",
+    "Romaji": "demasu ",
+    "penjelas romaji": "honga~",
+    "Meaning (EN)": "[a book] be published"
+  },
+  {
+    "ID": "[31, 43]",
+    "Kanji": "出席します",
+    "penjelas kanji": "会議に～",
+    "Kana": "しゅっせきします",
+    "penjelas kana": "かいぎに～",
+    "Romaji": "shussekishimasu ",
+    "penjelas romaji": "kaigini~",
+    "Meaning (EN)": "attend [a meeting]"
+  },
+  {
+    "ID": "[33, 7]",
+    "Kanji": "出席します",
+    "penjelas kanji": "会議に～",
+    "Kana": "しゅっせきします",
+    "penjelas kana": "かいぎに～",
+    "Romaji": "shussekishimasu ",
+    "penjelas romaji": "kaigini~",
+    "Meaning (EN)": "attend [a meeting]"
+  },
+  {
+    "ID": "[17, 12]",
+    "Kanji": "出張します",
+    "penjelas kanji": "",
+    "Kana": "しゅっちょうします",
+    "penjelas kana": "",
+    "Romaji": "shutchōshimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "go on a business trip"
+  },
+  {
+    "ID": "[40, 5]",
+    "Kanji": "出発します",
+    "penjelas kanji": "",
+    "Kana": "しゅっぱつします",
+    "penjelas kana": "",
+    "Romaji": "shuppatsushimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "depart"
+  },
+  {
+    "ID": "[7, 1]",
+    "Kanji": "切ります",
+    "penjelas kanji": "",
+    "Kana": "きります",
+    "penjelas kana": "",
+    "Romaji": "kirimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "cut, slice"
+  },
+  {
+    "ID": "[38, 7]",
+    "Kanji": "切ります",
+    "penjelas kanji": "電源を～",
+    "Kana": "きります",
+    "penjelas kana": "でんげんを～",
+    "Romaji": "kirimasu ",
+    "penjelas romaji": "dengenwo~",
+    "Meaning (EN)": "turn off [the power switch]"
+  },
+  {
+    "ID": "[43, 5]",
+    "Kanji": "切れます",
+    "penjelas kanji": "ひもが～",
+    "Kana": "きれます",
+    "penjelas kana": "ひもが～",
+    "Romaji": "kiremasu ",
+    "penjelas romaji": "himoga~",
+    "Meaning (EN)": "[a string] break, snap"
+  },
+  {
+    "ID": "[44, 43]",
+    "Kanji": "別れます",
+    "penjelas kanji": "",
+    "Kana": "わかれます",
+    "penjelas kana": "",
+    "Romaji": "wakaremasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "part, separate"
+  },
+  {
+    "ID": "[47, 5]",
+    "Kanji": "別れます",
+    "penjelas kanji": "人が～",
+    "Kana": "わかれます",
+    "penjelas kana": "ひとが～",
+    "Romaji": "wakaremasu ",
+    "penjelas romaji": "hitoga~",
+    "Meaning (EN)": "[people] part, separate"
+  },
+  {
+    "ID": "[33, 77]",
+    "Kanji": "利用します",
+    "penjelas kanji": "",
+    "Kana": "りようします",
+    "penjelas kana": "",
+    "Romaji": "riyōshimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "use"
+  },
+  {
+    "ID": "[36, 39]",
+    "Kanji": "利用します",
+    "penjelas kanji": "",
+    "Kana": "りようします",
+    "penjelas kana": "",
+    "Romaji": "riyōshimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "use"
+  },
+  {
+    "ID": "[37, 78]",
+    "Kanji": "利用します",
+    "penjelas kanji": "",
+    "Kana": "りようします",
+    "penjelas kana": "",
+    "Romaji": "riyōshimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "use"
+  },
+  {
+    "ID": "[49, 1]",
+    "Kanji": "利用します",
+    "penjelas kanji": "",
+    "Kana": "りようします",
+    "penjelas kana": "",
+    "Romaji": "riyōshimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "use"
+  },
+  {
+    "ID": "[40, 6]",
+    "Kanji": "到着します",
+    "penjelas kanji": "",
+    "Kana": "とうちゃくします",
+    "penjelas kana": "",
+    "Romaji": "tōchakushimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "arrive"
+  },
+  {
+    "ID": "[42, 51]",
+    "Kanji": "割ります",
+    "penjelas kanji": "",
+    "Kana": "わります",
+    "penjelas kana": "",
+    "Romaji": "warimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "break"
+  },
+  {
+    "ID": "[29, 6]",
+    "Kanji": "割れます",
+    "penjelas kanji": "コップが～",
+    "Kana": "われます",
+    "penjelas kana": "コップが～",
+    "Romaji": "waremasu ",
+    "penjelas romaji": "koppuga~",
+    "Meaning (EN)": "[a glass] break, smash"
+  },
+  {
+    "ID": "[41, 70]",
+    "Kanji": "助かります",
+    "penjelas kanji": "",
+    "Kana": "たすかります",
+    "penjelas kana": "",
+    "Romaji": "tasukarimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "be of help"
+  },
+  {
+    "ID": "[41, 51]",
+    "Kanji": "助けます",
+    "penjelas kanji": "",
+    "Kana": "たすけます",
+    "penjelas kana": "",
+    "Romaji": "tasukemasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "save, help"
+  },
+  {
+    "ID": "[33, 44]",
+    "Kanji": "助け合います",
+    "penjelas kanji": "",
+    "Kana": "たすけあいます",
+    "penjelas kana": "",
+    "Romaji": "tasukeaimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "help each other"
+  },
+  {
+    "ID": "[4, 5]",
+    "Kanji": "勉強します",
+    "penjelas kanji": "",
+    "Kana": "べんきょうします",
+    "penjelas kana": "",
+    "Romaji": "benkyōshimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "study"
+  },
+  {
+    "ID": "[40, 57]",
+    "Kanji": "動かします",
+    "penjelas kanji": "",
+    "Kana": "うごかします",
+    "penjelas kana": "",
+    "Romaji": "ugokashimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "start, operate, move"
+  },
+  {
+    "ID": "[21, 7]",
+    "Kanji": "動きます",
+    "penjelas kanji": "",
+    "Kana": "うごきます",
+    "penjelas kana": "",
+    "Romaji": "ugokimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "move, work"
+  },
+  {
+    "ID": "[23, 29]",
+    "Kanji": "動きます",
+    "penjelas kanji": "時計が～",
+    "Kana": "うごきます",
+    "penjelas kana": "とけいが～",
+    "Romaji": "ugokimasu ",
+    "penjelas romaji": "tokeiga~",
+    "Meaning (EN)": "[a watch] move, work"
+  },
+  {
+    "ID": "[21, 3]",
+    "Kanji": "勝ちます",
+    "penjelas kanji": "",
+    "Kana": "かちます",
+    "penjelas kana": "",
+    "Romaji": "kachimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "win"
+  },
+  {
+    "ID": "[49, 2]",
+    "Kanji": "勤めます",
+    "penjelas kanji": "会社に～",
+    "Kana": "つとめます",
+    "penjelas kana": "かいしゃに～",
+    "Romaji": "tsutomemasu ",
+    "penjelas romaji": "kaishani~",
+    "Meaning (EN)": "work [for a company]"
+  },
+  {
+    "ID": "[42, 1]",
+    "Kanji": "包みます",
+    "penjelas kanji": "",
+    "Kana": "つつみます",
+    "penjelas kana": "",
+    "Romaji": "tsutsumimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "wrap"
+  },
+  {
+    "ID": "[31, 33]",
+    "Kanji": "卒業します",
+    "penjelas kanji": "",
+    "Kana": "そつぎょうします",
+    "penjelas kana": "",
+    "Romaji": "sotsugyōshimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "graduate"
+  },
+  {
+    "ID": "[46, 6]",
+    "Kanji": "卒業します",
+    "penjelas kanji": "大学を～",
+    "Kana": "そつぎょうします",
+    "penjelas kana": "だいがくを～",
+    "Romaji": "sotsugyōshimasu ",
+    "penjelas romaji": "daigakuwo~",
+    "Meaning (EN)": "graduate [from a university]"
+  },
+  {
+    "ID": "[50, 48]",
+    "Kanji": "協力します",
+    "penjelas kanji": "",
+    "Kana": "きょうりょくします",
+    "penjelas kana": "",
+    "Romaji": "kyōryokushimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "cooperate"
+  },
+  {
+    "ID": "[50, 1]",
+    "Kanji": "参ります",
+    "penjelas kanji": "",
+    "Kana": "まいります",
+    "penjelas kana": "",
+    "Romaji": "mairimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "go, come (humble equivalent of いきます and きます)"
+  },
+  {
+    "ID": "[26, 48]",
+    "Kanji": "参加します",
+    "penjelas kanji": "パーティーに～",
+    "Kana": "さんかします",
+    "penjelas kana": "パーティーに～",
+    "Romaji": "sankashimasu ",
+    "penjelas romaji": "pāteiini~",
+    "Meaning (EN)": "attend [a party]"
+  },
+  {
+    "ID": "[28, 48]",
+    "Kanji": "参加します",
+    "penjelas kanji": "",
+    "Kana": "さんかします",
+    "penjelas kana": "",
+    "Romaji": "sankashimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "participate, join, attend"
+  },
+  {
+    "ID": "[38, 1]",
+    "Kanji": "参加します",
+    "penjelas kanji": "旅行に～",
+    "Kana": "さんかします",
+    "penjelas kana": "りょこうに～",
+    "Romaji": "sankashimasu ",
+    "penjelas romaji": "ryokōni~",
+    "Meaning (EN)": "join [a tour], participate, attend"
+  },
+  {
+    "ID": "[14, 8]",
+    "Kanji": "取ります",
+    "penjelas kanji": "",
+    "Kana": "とります",
+    "penjelas kana": "",
+    "Romaji": "torimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "take, pass"
+  },
+  {
+    "ID": "[25, 3]",
+    "Kanji": "取ります",
+    "penjelas kanji": "年を～",
+    "Kana": "とります",
+    "penjelas kana": "としを～",
+    "Romaji": "torimasu ",
+    "penjelas romaji": "toshiwo~",
+    "Meaning (EN)": "grow old"
+  },
+  {
+    "ID": "[27, 45]",
+    "Kanji": "取ります",
+    "penjelas kanji": "休みを～",
+    "Kana": "とります",
+    "penjelas kana": "やすみを～",
+    "Romaji": "torimasu ",
+    "penjelas romaji": "yasumiwo~",
+    "Meaning (EN)": "take [a holiday]"
+  },
+  {
+    "ID": "[31, 3]",
+    "Kanji": "取ります",
+    "penjelas kanji": "休みを～",
+    "Kana": "とります",
+    "penjelas kana": "やすみを～",
+    "Romaji": "torimasu ",
+    "penjelas romaji": "yasumiwo~",
+    "Meaning (EN)": "take [a holiday]"
+  },
+  {
+    "ID": "[29, 17]",
+    "Kanji": "取り替えます",
+    "penjelas kanji": "",
+    "Kana": "とりかえます",
+    "penjelas kana": "",
+    "Romaji": "torikaemasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "change"
+  },
+  {
+    "ID": "[41, 62]",
+    "Kanji": "取り替えます",
+    "penjelas kanji": "",
+    "Kana": "とりかえます",
+    "penjelas kana": "",
+    "Romaji": "torikaemasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "exchange"
+  },
+  {
+    "ID": "[31, 4]",
+    "Kanji": "受けます",
+    "penjelas kanji": "試験を～",
+    "Kana": "うけます",
+    "penjelas kana": "しけんを～",
+    "Romaji": "ukemasu ",
+    "penjelas romaji": "shikenwo~",
+    "Meaning (EN)": "take [an examination]"
+  },
+  {
+    "ID": "[49, 6]",
+    "Kanji": "召し上がります",
+    "penjelas kanji": "",
+    "Kana": "めしあがります",
+    "penjelas kana": "",
+    "Romaji": "meshiagarimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "eat, drink (respectful equivalent of たべます and のみます)"
+  },
+  {
+    "ID": "[39, 48]",
+    "Kanji": "合います",
+    "penjelas kanji": "",
+    "Kana": "あいます",
+    "penjelas kana": "",
+    "Romaji": "aimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "fit, suit"
+  },
+  {
+    "ID": "[40, 4]",
+    "Kanji": "合います",
+    "penjelas kanji": "サイズが～",
+    "Kana": "あいます",
+    "penjelas kana": "サイズが～",
+    "Romaji": "aimasu ",
+    "penjelas romaji": "saizuga~",
+    "Meaning (EN)": "[the size] fit"
+  },
+  {
+    "ID": "[32, 4]",
+    "Kanji": "合格します",
+    "penjelas kanji": "試験に～",
+    "Kana": "ごうかくします",
+    "penjelas kana": "しけんに～",
+    "Romaji": "gōkakushimasu ",
+    "penjelas romaji": "shikenni~",
+    "Meaning (EN)": "pass [an examination]"
+  },
+  {
+    "ID": "[46, 25]",
+    "Kanji": "向かいます",
+    "penjelas kanji": "",
+    "Kana": "むかいます",
+    "penjelas kana": "",
+    "Romaji": "mukaimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "head for"
+  },
+  {
+    "ID": "[6, 3]",
+    "Kanji": "吸います",
+    "penjelas kanji": "たばこを～",
+    "Kana": "すいます",
+    "penjelas kana": "たばこを～",
+    "Romaji": "suimasu ",
+    "penjelas romaji": "tabakowo~",
+    "Meaning (EN)": "smoke [a cigarette]"
+  },
+  {
+    "ID": "[32, 60]",
+    "Kanji": "吹きます",
+    "penjelas kanji": "風が～",
+    "Kana": "ふきます",
+    "penjelas kana": "かぜが～",
+    "Romaji": "fukimasu ",
+    "penjelas romaji": "kazega~",
+    "Meaning (EN)": "[wind] blow"
+  },
+  {
+    "ID": "[47, 1]",
+    "Kanji": "吹きます",
+    "penjelas kanji": "風が～",
+    "Kana": "ふきます",
+    "penjelas kana": "かぜが～",
+    "Romaji": "fukimasu ",
+    "penjelas romaji": "kazega~",
+    "Meaning (EN)": "[wind] blow"
+  },
+  {
+    "ID": "[14, 10]",
+    "Kanji": "呼びます",
+    "penjelas kanji": "",
+    "Kana": "よびます",
+    "penjelas kana": "",
+    "Romaji": "yobimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "call"
+  },
+  {
+    "ID": "[41, 61]",
+    "Kanji": "呼びます",
+    "penjelas kanji": "",
+    "Kana": "よびます",
+    "penjelas kana": "",
+    "Romaji": "yobimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "invite"
+  },
+  {
+    "ID": "[35, 1]",
+    "Kanji": "咲きます",
+    "penjelas kanji": "花が～",
+    "Kana": "さきます",
+    "penjelas kana": "はなが～",
+    "Romaji": "sakimasu ",
+    "penjelas romaji": "hanaga~",
+    "Meaning (EN)": "[flowers] bloom"
+  },
+  {
+    "ID": "[23, 2]",
+    "Kanji": "回します",
+    "penjelas kanji": "",
+    "Kana": "まわします",
+    "penjelas kana": "",
+    "Romaji": "mawashimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "turn"
+  },
+  {
+    "ID": "[32, 51]",
+    "Kanji": "困ります",
+    "penjelas kanji": "",
+    "Kana": "こまります",
+    "penjelas kana": "",
+    "Romaji": "komarimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "be in trouble, have a problem"
+  },
+  {
+    "ID": "[35, 3]",
+    "Kanji": "困ります",
+    "penjelas kanji": "",
+    "Kana": "こまります",
+    "penjelas kana": "",
+    "Romaji": "komarimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "be in trouble, have a problem"
+  },
+  {
+    "ID": "[37, 74]",
+    "Kanji": "埋め立てます",
+    "penjelas kanji": "",
+    "Kana": "うめたてます",
+    "penjelas kana": "",
+    "Romaji": "umetatemasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "reclaim"
+  },
+  {
+    "ID": "[43, 1]",
+    "Kanji": "増えます",
+    "penjelas kanji": "輸出が～",
+    "Kana": "ふえます",
+    "penjelas kana": "ゆしゅつが～",
+    "Romaji": "fuemasu ",
+    "penjelas romaji": "yushutsuga~",
+    "Meaning (EN)": "[exports] increase"
+  },
+  {
+    "ID": "[37, 9]",
+    "Kanji": "壊します",
+    "penjelas kanji": "",
+    "Kana": "こわします",
+    "penjelas kana": "",
+    "Romaji": "kowashimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "break, destroy"
+  },
+  {
+    "ID": "[29, 5]",
+    "Kanji": "壊れます",
+    "penjelas kanji": "いすが～",
+    "Kana": "こわれます",
+    "penjelas kana": "いすが～",
+    "Romaji": "kowaremasu ",
+    "penjelas romaji": "isuga~",
+    "Meaning (EN)": "[a chair] break"
+  },
+  {
+    "ID": "[15, 3]",
+    "Kanji": "売ります",
+    "penjelas kanji": "",
+    "Kana": "うります",
+    "penjelas kana": "",
+    "Romaji": "urimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "sell"
+  },
+  {
+    "ID": "[28, 1]",
+    "Kanji": "売れます",
+    "penjelas kanji": "パンが～",
+    "Kana": "うれます",
+    "penjelas kana": "パンが～",
+    "Romaji": "uremasu ",
+    "penjelas romaji": "panga~",
+    "Meaning (EN)": "[bread] sell, be sold"
+  },
+  {
+    "ID": "[23, 4]",
+    "Kanji": "変えます",
+    "penjelas kanji": "",
+    "Kana": "かえます",
+    "penjelas kana": "",
+    "Romaji": "kaemasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "change"
+  },
+  {
+    "ID": "[35, 2]",
+    "Kanji": "変わります",
+    "penjelas kanji": "色が～",
+    "Kana": "かわります",
+    "penjelas kana": "いろが～",
+    "Romaji": "kawarimasu ",
+    "penjelas romaji": "iroga~",
+    "Meaning (EN)": "[the color] change"
+  },
+  {
+    "ID": "[33, 10]",
+    "Kanji": "外します",
+    "penjelas kanji": "席を～",
+    "Kana": "はずします",
+    "penjelas kana": "せきを～",
+    "Romaji": "hazushimasu ",
+    "penjelas romaji": "sekiwo~",
+    "Meaning (EN)": "be away [from one's desk]"
+  },
+  {
+    "ID": "[29, 11]",
+    "Kanji": "外れます",
+    "penjelas kanji": "ボタンが～",
+    "Kana": "はずれます",
+    "penjelas kana": "ボタンが～",
+    "Romaji": "hazuremasu ",
+    "penjelas romaji": "botanga~",
+    "Meaning (EN)": "[a button] be undone"
+  },
+  {
+    "ID": "[30, 44]",
+    "Kanji": "夢を 見ます",
+    "penjelas kanji": "",
+    "Kana": "ゆめを みます",
+    "penjelas kana": "",
+    "Romaji": "yumewo mimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "dream"
+  },
+  {
+    "ID": "[36, 44]",
+    "Kanji": "太ります",
+    "penjelas kanji": "",
+    "Kana": "ふとります",
+    "penjelas kana": "",
+    "Romaji": "futorimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "get fat"
+  },
+  {
+    "ID": "[39, 10]",
+    "Kanji": "太ります",
+    "penjelas kanji": "",
+    "Kana": "ふとります",
+    "penjelas kana": "",
+    "Romaji": "futorimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "get fat, gain weight"
+  },
+  {
+    "ID": "[32, 3]",
+    "Kanji": "失敗します",
+    "penjelas kanji": "試験に～",
+    "Kana": "しっぱいします",
+    "penjelas kana": "しけんに～",
+    "Romaji": "shippaishimasu ",
+    "penjelas romaji": "shikenni~",
+    "Meaning (EN)": "fail [an examination]"
+  },
+  {
+    "ID": "[31, 41]",
+    "Kanji": "始まります",
+    "penjelas kanji": "式が～",
+    "Kana": "はじまります",
+    "penjelas kana": "しきが～",
+    "Romaji": "hajimarimasu ",
+    "penjelas romaji": "shikiga~",
+    "Meaning (EN)": "[a ceremony] begin, start"
+  },
+  {
+    "ID": "[33, 6]",
+    "Kanji": "始まります",
+    "penjelas kanji": "式が～",
+    "Kana": "はじまります",
+    "penjelas kana": "しきが～",
+    "Romaji": "hajimarimasu ",
+    "penjelas romaji": "shikiga~",
+    "Meaning (EN)": "[a ceremony] begin, start"
+  },
+  {
+    "ID": "[14, 48]",
+    "Kanji": "始めます",
+    "penjelas kanji": "",
+    "Kana": "はじめます",
+    "penjelas kana": "",
+    "Romaji": "hajimemasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "start, begin"
+  },
+  {
+    "ID": "[16, 12]",
+    "Kanji": "始めます",
+    "penjelas kanji": "",
+    "Kana": "はじめます",
+    "penjelas kana": "",
+    "Romaji": "hajimemasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "start, begin"
+  },
+  {
+    "ID": "[47, 25]",
+    "Kanji": "婚約します",
+    "penjelas kanji": "",
+    "Kana": "こんやくします",
+    "penjelas kana": "",
+    "Romaji": "kon'yakushimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "get engaged"
+  },
+  {
+    "ID": "[44, 36]",
+    "Kanji": "嫌がります",
+    "penjelas kanji": "",
+    "Kana": "いやがります",
+    "penjelas kana": "",
+    "Romaji": "iyagarimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "dislike"
+  },
+  {
+    "ID": "[50, 7]",
+    "Kanji": "存じます",
+    "penjelas kanji": "",
+    "Kana": "ぞんじます",
+    "penjelas kana": "",
+    "Romaji": "zonjimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "get to know (humble equivalent of しります)"
+  },
+  {
+    "ID": "[33, 5]",
+    "Kanji": "守ります",
+    "penjelas kanji": "",
+    "Kana": "まもります",
+    "penjelas kana": "",
+    "Romaji": "mamorimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "keep, follow, obey"
+  },
+  {
+    "ID": "[39, 7]",
+    "Kanji": "安心します",
+    "penjelas kanji": "",
+    "Kana": "あんしんします",
+    "penjelas kana": "",
+    "Romaji": "anshinshimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "be relieved"
+  },
+  {
+    "ID": "[49, 37]",
+    "Kanji": "寄ります",
+    "penjelas kanji": "銀行に～",
+    "Kana": "よります",
+    "penjelas kana": "ぎんこうに～",
+    "Romaji": "yorimasu ",
+    "penjelas romaji": "ginkōni~",
+    "Meaning (EN)": "drop into [a bank]"
+  },
+  {
+    "ID": "[4, 2]",
+    "Kanji": "寝ます",
+    "penjelas kanji": "",
+    "Kana": "ねます",
+    "penjelas kana": "",
+    "Romaji": "nemasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "sleep, go to bed"
+  },
+  {
+    "ID": "[36, 41]",
+    "Kanji": "届きます",
+    "penjelas kanji": "荷物が～",
+    "Kana": "とどきます",
+    "penjelas kana": "にもつが～",
+    "Romaji": "todokimasu ",
+    "penjelas romaji": "nimotsuga~",
+    "Meaning (EN)": "[parcels] be delivered"
+  },
+  {
+    "ID": "[46, 4]",
+    "Kanji": "届きます",
+    "penjelas kanji": "荷物が～",
+    "Kana": "とどきます",
+    "penjelas kana": "にもつが～",
+    "Romaji": "todokimasu ",
+    "penjelas romaji": "nimotsuga~",
+    "Meaning (EN)": "[parcels] be delivered"
+  },
+  {
+    "ID": "[48, 2]",
+    "Kanji": "届ける",
+    "penjelas kanji": "",
+    "Kana": "とどけます",
+    "penjelas kana": "",
+    "Romaji": "todokemasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "deliver"
+  },
+  {
+    "ID": "[46, 2]",
+    "Kanji": "帰って 来ます",
+    "penjelas kanji": "",
+    "Kana": "かえって きます",
+    "penjelas kana": "",
+    "Romaji": "kaette kimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "come back"
+  },
+  {
+    "ID": "[5, 3]",
+    "Kanji": "帰ります",
+    "penjelas kanji": "",
+    "Kana": "かえります",
+    "penjelas kana": "",
+    "Romaji": "kaerimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "go home, return"
+  },
+  {
+    "ID": "[42, 49]",
+    "Kanji": "広めます",
+    "penjelas kanji": "",
+    "Kana": "ひろめます",
+    "penjelas kana": "",
+    "Romaji": "hiromemasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "spread"
+  },
+  {
+    "ID": "[14, 16]",
+    "Kanji": "座ります",
+    "penjelas kanji": "",
+    "Kana": "すわります",
+    "penjelas kana": "",
+    "Romaji": "suwarimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "sit down"
+  },
+  {
+    "ID": "[15, 26]",
+    "Kanji": "座ります",
+    "penjelas kanji": "",
+    "Kana": "すわります",
+    "penjelas kana": "",
+    "Romaji": "suwarimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "sit down"
+  },
+  {
+    "ID": "[27, 28]",
+    "Kanji": "建てます",
+    "penjelas kanji": "",
+    "Kana": "たてます",
+    "penjelas kana": "",
+    "Romaji": "tatemasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "build"
+  },
+  {
+    "ID": "[23, 3]",
+    "Kanji": "引きます",
+    "penjelas kanji": "",
+    "Kana": "ひきます",
+    "penjelas kana": "",
+    "Romaji": "hikimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "pull"
+  },
+  {
+    "ID": "[23, 31]",
+    "Kanji": "引っ越しします",
+    "penjelas kanji": "",
+    "Kana": "ひっこしします",
+    "penjelas kana": "",
+    "Romaji": "hikkoshishimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "move (house)"
+  },
+  {
+    "ID": "[18, 3]",
+    "Kanji": "弾きます",
+    "penjelas kanji": "",
+    "Kana": "ひきます",
+    "penjelas kana": "",
+    "Romaji": "hikimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "play (stringed instrument, piano, etc.)"
+  },
+  {
+    "ID": "[32, 53]",
+    "Kanji": "当たります",
+    "penjelas kanji": "宝くじが～",
+    "Kana": "あたります",
+    "penjelas kana": "たからくじが～",
+    "Romaji": "atarimasu ",
+    "penjelas romaji": "takarakujiga~",
+    "Meaning (EN)": "win [a lottery]"
+  },
+  {
+    "ID": "[37, 53]",
+    "Kanji": "彫ります",
+    "penjelas kanji": "",
+    "Kana": "ほります",
+    "penjelas kana": "",
+    "Romaji": "horimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "engrave, carve"
+  },
+  {
+    "ID": "[21, 6]",
+    "Kanji": "役に 立ちます",
+    "penjelas kanji": "",
+    "Kana": "やくに たちます",
+    "penjelas kana": "",
+    "Romaji": "yakuni tachimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "be useful"
+  },
+  {
+    "ID": "[14, 6]",
+    "Kanji": "待ちます",
+    "penjelas kanji": "",
+    "Kana": "まちます",
+    "penjelas kana": "",
+    "Romaji": "machimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "wait"
+  },
+  {
+    "ID": "[30, 11]",
+    "Kanji": "復習します",
+    "penjelas kanji": "",
+    "Kana": "ふくしゅうします",
+    "penjelas kana": "",
+    "Romaji": "fukushūshimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "review one's lesson"
+  },
+  {
+    "ID": "[17, 10]",
+    "Kanji": "心配します",
+    "penjelas kanji": "",
+    "Kana": "しんぱいします",
+    "penjelas kana": "",
+    "Romaji": "shinpaishimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "worry"
+  },
+  {
+    "ID": "[17, 2]",
+    "Kanji": "忘れます",
+    "penjelas kanji": "",
+    "Kana": "わすれます",
+    "penjelas kana": "",
+    "Romaji": "wasuremasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "forget"
+  },
+  {
+    "ID": "[50, 26]",
+    "Kanji": "応援します",
+    "penjelas kanji": "",
+    "Kana": "おうえんします",
+    "penjelas kana": "",
+    "Romaji": "ōenshimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "support"
+  },
+  {
+    "ID": "[21, 1]",
+    "Kanji": "思います",
+    "penjelas kanji": "",
+    "Kana": "おもいます",
+    "penjelas kana": "",
+    "Romaji": "omoimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "think"
+  },
+  {
+    "ID": "[15, 21]",
+    "Kanji": "思い出します",
+    "penjelas kanji": "",
+    "Kana": "おもいだします",
+    "penjelas kana": "",
+    "Romaji": "omoidashimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "remember, recollect"
+  },
+  {
+    "ID": "[14, 5]",
+    "Kanji": "急ぎます",
+    "penjelas kanji": "",
+    "Kana": "いそぎます",
+    "penjelas kana": "",
+    "Romaji": "isogimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "hurry"
+  },
+  {
+    "ID": "[50, 28]",
+    "Kanji": "感謝します",
+    "penjelas kanji": "",
+    "Kana": "かんしゃします",
+    "penjelas kana": "",
+    "Romaji": "kanshashimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "thank, be grateful"
+  },
+  {
+    "ID": "[36, 4]",
+    "Kanji": "慣れます",
+    "penjelas kanji": "仕事に～",
+    "Kana": "なれます",
+    "penjelas kana": "しごとに～",
+    "Romaji": "naremasu ",
+    "penjelas romaji": "shigotoni~",
+    "Meaning (EN)": "get accustomed to [one's job]"
+  },
+  {
+    "ID": "[32, 2]",
+    "Kanji": "成功します",
+    "penjelas kanji": "",
+    "Kana": "せいこうします",
+    "penjelas kana": "",
+    "Romaji": "seikōshimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "succeed"
+  },
+  {
+    "ID": "[30, 6]",
+    "Kanji": "戻します",
+    "penjelas kanji": "",
+    "Kana": "もどします",
+    "penjelas kana": "",
+    "Romaji": "modoshimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "return, put ～ back"
+  },
+  {
+    "ID": "[32, 59]",
+    "Kanji": "戻ります",
+    "penjelas kanji": "",
+    "Kana": "もどります",
+    "penjelas kana": "",
+    "Romaji": "modorimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "return"
+  },
+  {
+    "ID": "[33, 11]",
+    "Kanji": "戻ります",
+    "penjelas kanji": "",
+    "Kana": "もどります",
+    "penjelas kana": "",
+    "Romaji": "modorimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "come back, return"
+  },
+  {
+    "ID": "[40, 61]",
+    "Kanji": "手に 入れます",
+    "penjelas kanji": "",
+    "Kana": "てに いれます",
+    "penjelas kana": "",
+    "Romaji": "teni iremasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "obtain, get"
+  },
+  {
+    "ID": "[46, 41]",
+    "Kanji": "手に入ります",
+    "penjelas kanji": "情報が～",
+    "Kana": "てにはいります",
+    "penjelas kana": "じょうほうが～",
+    "Romaji": "tenihairimasu ",
+    "penjelas romaji": "jōhōga~",
+    "Meaning (EN)": "[information] come in, reach"
+  },
+  {
+    "ID": "[14, 9]",
+    "Kanji": "手伝います",
+    "penjelas kanji": "",
+    "Kana": "てつだいます",
+    "penjelas kana": "",
+    "Romaji": "tetsudaimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "help (with a task)"
+  },
+  {
+    "ID": "[33, 63]",
+    "Kanji": "打ちます",
+    "penjelas kanji": "電報を～",
+    "Kana": "うちます",
+    "penjelas kana": "でんぽうを～",
+    "Romaji": "uchimasu ",
+    "penjelas romaji": "denpōwo~",
+    "Meaning (EN)": "send [a telegram]"
+  },
+  {
+    "ID": "[36, 43]",
+    "Kanji": "打ちます",
+    "penjelas kanji": "ワープロを～",
+    "Kana": "うちます",
+    "penjelas kana": "ワープロを～",
+    "Romaji": "uchimasu ",
+    "penjelas romaji": "wāpurowo~",
+    "Meaning (EN)": "type [on a word processor]"
+  },
+  {
+    "ID": "[17, 4]",
+    "Kanji": "払います",
+    "penjelas kanji": "",
+    "Kana": "はらいます",
+    "penjelas kana": "",
+    "Romaji": "haraimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "pay"
+  },
+  {
+    "ID": "[33, 4]",
+    "Kanji": "投げます",
+    "penjelas kanji": "",
+    "Kana": "なげます",
+    "penjelas kana": "",
+    "Romaji": "nagemasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "throw"
+  },
+  {
+    "ID": "[29, 7]",
+    "Kanji": "折れます",
+    "penjelas kanji": "木が～",
+    "Kana": "おれます",
+    "penjelas kana": "きが～",
+    "Romaji": "oremasu ",
+    "penjelas romaji": "kiga~",
+    "Meaning (EN)": "[a tree] break, snap"
+  },
+  {
+    "ID": "[16, 10]",
+    "Kanji": "押します",
+    "penjelas kanji": "",
+    "Kana": "おします",
+    "penjelas kana": "",
+    "Romaji": "oshimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "push, press"
+  },
+  {
+    "ID": "[38, 41]",
+    "Kanji": "押します",
+    "penjelas kanji": "はんこを～",
+    "Kana": "おします",
+    "penjelas kana": "はんこを～",
+    "Romaji": "oshimasu ",
+    "penjelas romaji": "hankowo~",
+    "Meaning (EN)": "affix [a seal], stamp"
+  },
+  {
+    "ID": "[37, 4]",
+    "Kanji": "招待します",
+    "penjelas kanji": "",
+    "Kana": "しょうたいします",
+    "penjelas kana": "",
+    "Romaji": "shōtaishimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "invite"
+  },
+  {
+    "ID": "[50, 6]",
+    "Kanji": "拝見します",
+    "penjelas kanji": "",
+    "Kana": "はいけんします",
+    "penjelas kana": "",
+    "Romaji": "haikenshimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "see (humble equivalent of みます)"
+  },
+  {
+    "ID": "[26, 6]",
+    "Kanji": "拾います",
+    "penjelas kanji": "",
+    "Kana": "ひろいます",
+    "penjelas kana": "",
+    "Romaji": "hiroimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "pick up"
+  },
+  {
+    "ID": "[35, 57]",
+    "Kanji": "拾います",
+    "penjelas kanji": "",
+    "Kana": "ひろいます",
+    "penjelas kana": "",
+    "Romaji": "hiroimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "pick up"
+  },
+  {
+    "ID": "[14, 7]",
+    "Kanji": "持ちます",
+    "penjelas kanji": "",
+    "Kana": "もちます",
+    "penjelas kana": "",
+    "Romaji": "mochimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "hold"
+  },
+  {
+    "ID": "[17, 9]",
+    "Kanji": "持って 来ます",
+    "penjelas kanji": "",
+    "Kana": "もって きます",
+    "penjelas kana": "",
+    "Romaji": "motte kimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "bring (something)"
+  },
+  {
+    "ID": "[17, 8]",
+    "Kanji": "持って 行きます",
+    "penjelas kanji": "",
+    "Kana": "もって いきます",
+    "penjelas kana": "",
+    "Romaji": "motte ikimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "take (something)"
+  },
+  {
+    "ID": "[29, 46]",
+    "Kanji": "指します",
+    "penjelas kanji": "",
+    "Kana": "さします",
+    "penjelas kana": "",
+    "Romaji": "sashimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "point"
+  },
+  {
+    "ID": "[18, 6]",
+    "Kanji": "捨てます",
+    "penjelas kanji": "",
+    "Kana": "すてます",
+    "penjelas kana": "",
+    "Romaji": "sutemasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "throw away"
+  },
+  {
+    "ID": "[19, 3]",
+    "Kanji": "掃除します",
+    "penjelas kanji": "",
+    "Kana": "そうじします",
+    "penjelas kana": "",
+    "Romaji": "sōjishimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "clean (a room)"
+  },
+  {
+    "ID": "[49, 32]",
+    "Kanji": "授賞します",
+    "penjelas kanji": "",
+    "Kana": "じゅしょうします",
+    "penjelas kana": "",
+    "Romaji": "jushōshimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "be awarded a prize"
+  },
+  {
+    "ID": "[29, 15]",
+    "Kanji": "掛かります",
+    "penjelas kanji": "かぎが～",
+    "Kana": "かかります",
+    "penjelas kana": "かぎが～",
+    "Romaji": "kakarimasu ",
+    "penjelas romaji": "kagiga~",
+    "Meaning (EN)": "be locked"
+  },
+  {
+    "ID": "[30, 2]",
+    "Kanji": "掛けます",
+    "penjelas kanji": "",
+    "Kana": "かけます",
+    "penjelas kana": "",
+    "Romaji": "kakemasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "hang"
+  },
+  {
+    "ID": "[38, 8]",
+    "Kanji": "掛けます",
+    "penjelas kanji": "かぎを～",
+    "Kana": "かけます",
+    "penjelas kana": "かぎを～",
+    "Romaji": "kakemasu ",
+    "penjelas romaji": "kagiwo~",
+    "Meaning (EN)": "lock"
+  },
+  {
+    "ID": "[49, 3]",
+    "Kanji": "掛けます",
+    "penjelas kanji": "いすに～",
+    "Kana": "かけます",
+    "penjelas kana": "いすに～",
+    "Romaji": "kakemasu ",
+    "penjelas romaji": "isuni~",
+    "Meaning (EN)": "sit on [a chair]"
+  },
+  {
+    "ID": "[26, 2]",
+    "Kanji": "探します、捜します",
+    "penjelas kanji": "",
+    "Kana": "さがします",
+    "penjelas kana": "",
+    "Romaji": "sagashimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "look for, search"
+  },
+  {
+    "ID": "[18, 7]",
+    "Kanji": "換えます",
+    "penjelas kanji": "",
+    "Kana": "かえます",
+    "penjelas kana": "",
+    "Romaji": "kaemasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "exchange, change"
+  },
+  {
+    "ID": "[6, 9]",
+    "Kanji": "撮ります",
+    "penjelas kanji": "写真を～",
+    "Kana": "とります",
+    "penjelas kana": "しゃしんを～",
+    "Romaji": "torimasu ",
+    "penjelas romaji": "shashinwo~",
+    "Meaning (EN)": "take [a photograph]"
+  },
+  {
+    "ID": "[50, 44]",
+    "Kanji": "撮ります",
+    "penjelas kanji": "ビデオに～",
+    "Kana": "とります",
+    "penjelas kana": "ビデオに～",
+    "Romaji": "torimasu ",
+    "penjelas romaji": "bideoni~",
+    "Meaning (EN)": "record [on video], video"
+  },
+  {
+    "ID": "[50, 43]",
+    "Kanji": "放送します",
+    "penjelas kanji": "",
+    "Kana": "ほうそうします",
+    "penjelas kana": "",
+    "Romaji": "hōsōshimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "broadcast"
+  },
+  {
+    "ID": "[7, 7]",
+    "Kanji": "教えます",
+    "penjelas kanji": "",
+    "Kana": "おしえます",
+    "penjelas kana": "",
+    "Romaji": "oshiemasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "teach"
+  },
+  {
+    "ID": "[14, 15]",
+    "Kanji": "教えます",
+    "penjelas kanji": "住所を～",
+    "Kana": "おしえます",
+    "penjelas kana": "じゅうしょを～",
+    "Romaji": "oshiemasu ",
+    "penjelas romaji": "jūshowo~",
+    "Meaning (EN)": "tell [an address]"
+  },
+  {
+    "ID": "[13, 8]",
+    "Kanji": "散歩します",
+    "penjelas kanji": "公園を～",
+    "Kana": "さんぽします",
+    "penjelas kana": "こうえんを～",
+    "Romaji": "sanposhimasu ",
+    "penjelas romaji": "kōenwo~",
+    "Meaning (EN)": "take a walk [in a park]"
+  },
+  {
+    "ID": "[40, 1]",
+    "Kanji": "数えます",
+    "penjelas kanji": "",
+    "Kana": "かぞえます",
+    "penjelas kana": "",
+    "Romaji": "kazoemasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "count"
+  },
+  {
+    "ID": "[38, 36]",
+    "Kanji": "整理します",
+    "penjelas kanji": "",
+    "Kana": "せいりします",
+    "penjelas kana": "",
+    "Romaji": "seirishimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "sort (things) out"
+  },
+  {
+    "ID": "[39, 56]",
+    "Kanji": "早退します",
+    "penjelas kanji": "",
+    "Kana": "そうたいします",
+    "penjelas kana": "",
+    "Romaji": "sōtaishimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "leave (work or school) earlier than usual"
+  },
+  {
+    "ID": "[38, 50]",
+    "Kanji": "時間が たちます",
+    "penjelas kanji": "",
+    "Kana": "じかんが たちます",
+    "penjelas kana": "",
+    "Romaji": "jikanga tachimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "time passes by"
+  },
+  {
+    "ID": "[32, 6]",
+    "Kanji": "晴れます",
+    "penjelas kanji": "",
+    "Kana": "はれます",
+    "penjelas kana": "",
+    "Romaji": "haremasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "clear up"
+  },
+  {
+    "ID": "[41, 54]",
+    "Kanji": "暮らします",
+    "penjelas kanji": "",
+    "Kana": "くらします",
+    "penjelas kana": "",
+    "Romaji": "kurashimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "live, lead a life"
+  },
+  {
+    "ID": "[32, 7]",
+    "Kanji": "曇ります",
+    "penjelas kanji": "",
+    "Kana": "くもります",
+    "penjelas kana": "",
+    "Romaji": "kumorimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "get cloudy"
+  },
+  {
+    "ID": "[14, 47]",
+    "Kanji": "曲がります",
+    "penjelas kanji": "右へ～",
+    "Kana": "まがります",
+    "penjelas kana": "みぎへ～",
+    "Romaji": "magarimasu ",
+    "penjelas romaji": "migihe~",
+    "Meaning (EN)": "turn [to the right]"
+  },
+  {
+    "ID": "[23, 9]",
+    "Kanji": "曲がります",
+    "penjelas kanji": "右へ～",
+    "Kana": "まがります",
+    "penjelas kana": "みぎへ～",
+    "Romaji": "magarimasu ",
+    "penjelas romaji": "migihe~",
+    "Meaning (EN)": "turn [to the right]"
+  },
+  {
+    "ID": "[6, 7]",
+    "Kanji": "書きます",
+    "penjelas kanji": "",
+    "Kana": "かきます",
+    "penjelas kana": "",
+    "Romaji": "kakimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "write (かきます can also mean to draw or paint, but in this case it is written with hiragana in this book)"
+  },
+  {
+    "ID": "[5, 2]",
+    "Kanji": "来ます",
+    "penjelas kanji": "",
+    "Kana": "きます",
+    "penjelas kana": "",
+    "Romaji": "kimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "come"
+  },
+  {
+    "ID": "[24, 7]",
+    "Kanji": "案内します",
+    "penjelas kanji": "",
+    "Kana": "あんないします",
+    "penjelas kana": "",
+    "Romaji": "annaishimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "show around, show the way"
+  },
+  {
+    "ID": "[30, 5]",
+    "Kanji": "植えます",
+    "penjelas kanji": "",
+    "Kana": "うえます",
+    "penjelas kana": "",
+    "Romaji": "uemasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "plant"
+  },
+  {
+    "ID": "[45, 14]",
+    "Kanji": "楽しみに して います",
+    "penjelas kanji": "",
+    "Kana": "たのしみに して います",
+    "penjelas kana": "",
+    "Romaji": "tanoshimini shite imasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "be looking forward to, be expecting"
+  },
+  {
+    "ID": "[48, 16]",
+    "Kanji": "楽しみます",
+    "penjelas kanji": "",
+    "Kana": "たのしみます",
+    "penjelas kana": "",
+    "Romaji": "tanoshimimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "enjoy oneself"
+  },
+  {
+    "ID": "[18, 4]",
+    "Kanji": "歌います",
+    "penjelas kanji": "",
+    "Kana": "うたいます",
+    "penjelas kana": "",
+    "Romaji": "utaimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "sing"
+  },
+  {
+    "ID": "[29, 12]",
+    "Kanji": "止まります",
+    "penjelas kanji": "車が～",
+    "Kana": "とまります",
+    "penjelas kana": "くるまが～",
+    "Romaji": "tomarimasu ",
+    "penjelas romaji": "kurumaga~",
+    "Meaning (EN)": "[a car] stop, park"
+  },
+  {
+    "ID": "[14, 13]",
+    "Kanji": "止めます",
+    "penjelas kanji": "",
+    "Kana": "とめます",
+    "penjelas kana": "",
+    "Romaji": "tomemasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "stop, park"
+  },
+  {
+    "ID": "[23, 7]",
+    "Kanji": "歩きます",
+    "penjelas kanji": "",
+    "Kana": "あるきます",
+    "penjelas kana": "",
+    "Romaji": "arukimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "walk"
+  },
+  {
+    "ID": "[39, 4]",
+    "Kanji": "死にます",
+    "penjelas kanji": "",
+    "Kana": "しにます",
+    "penjelas kana": "",
+    "Romaji": "shinimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "die"
+  },
+  {
+    "ID": "[31, 29]",
+    "Kanji": "残ります",
+    "penjelas kanji": "",
+    "Kana": "のこります",
+    "penjelas kana": "",
+    "Romaji": "nokorimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "remain, be left, stay behind"
+  },
+  {
+    "ID": "[17, 11]",
+    "Kanji": "残業します",
+    "penjelas kanji": "",
+    "Kana": "ざんぎょうします",
+    "penjelas kana": "",
+    "Romaji": "zangyōshimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "work overtime"
+  },
+  {
+    "ID": "[47, 45]",
+    "Kanji": "比べます",
+    "penjelas kanji": "男性と～",
+    "Kana": "くらべます",
+    "penjelas kana": "だんせいと～",
+    "Romaji": "kurabemasu ",
+    "penjelas romaji": "danseito~",
+    "Meaning (EN)": "compare [with men]"
+  },
+  {
+    "ID": "[31, 54]",
+    "Kanji": "気が つきます",
+    "penjelas kanji": "",
+    "Kana": "きが つきます",
+    "penjelas kana": "",
+    "Romaji": "kiga tsukimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "notice, become aware of"
+  },
+  {
+    "ID": "[34, 4]",
+    "Kanji": "気が つきます",
+    "penjelas kanji": "忘れ物に～",
+    "Kana": "きが つきます",
+    "penjelas kana": "わすれものに～",
+    "Romaji": "kiga tsukimasu ",
+    "penjelas romaji": "wasuremononi~",
+    "Meaning (EN)": "notice, become aware of [things left behind]"
+  },
+  {
+    "ID": "[21, 9]",
+    "Kanji": "気を つけます",
+    "penjelas kanji": "",
+    "Kana": "きを つけます",
+    "penjelas kana": "",
+    "Romaji": "kiwo tsukemasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "pay attention, take care"
+  },
+  {
+    "ID": "[23, 30]",
+    "Kanji": "気を つけます",
+    "penjelas kanji": "車に～",
+    "Kana": "きを つけます",
+    "penjelas kana": "くるまに～",
+    "Romaji": "kiwo tsukemasu ",
+    "penjelas romaji": "kurumani~",
+    "Meaning (EN)": "pay attention [to cars], take care"
+  },
+  {
+    "ID": "[37, 10]",
+    "Kanji": "汚します",
+    "penjelas kanji": "",
+    "Kana": "よごします",
+    "penjelas kana": "",
+    "Romaji": "yogoshimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "make ～ dirty"
+  },
+  {
+    "ID": "[29, 9]",
+    "Kanji": "汚れます",
+    "penjelas kanji": "服が～",
+    "Kana": "よごれます",
+    "penjelas kana": "ふくが～",
+    "Romaji": "yogoremasu ",
+    "penjelas romaji": "fukuga~",
+    "Meaning (EN)": "[clothes] get dirty"
+  },
+  {
+    "ID": "[30, 9]",
+    "Kanji": "決めます",
+    "penjelas kanji": "",
+    "Kana": "きめます",
+    "penjelas kana": "",
+    "Romaji": "kimemasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "decide"
+  },
+  {
+    "ID": "[42, 2]",
+    "Kanji": "沸かします",
+    "penjelas kanji": "",
+    "Kana": "わかします",
+    "penjelas kana": "",
+    "Romaji": "wakashimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "boil"
+  },
+  {
+    "ID": "[32, 61]",
+    "Kanji": "治ります",
+    "penjelas kanji": "病気が～",
+    "Kana": "なおります",
+    "penjelas kana": "びょうきが～",
+    "Romaji": "naorimasu ",
+    "penjelas romaji": "byōkiga~",
+    "Meaning (EN)": "recover from [sickness], get well"
+  },
+  {
+    "ID": "[35, 5]",
+    "Kanji": "治ります",
+    "penjelas kanji": "病気が～",
+    "Kana": "なおります",
+    "penjelas kana": "びょうきが～",
+    "Romaji": "naorimasu ",
+    "penjelas romaji": "byōkiga~",
+    "Meaning (EN)": "recover from [sickness], get well"
+  },
+  {
+    "ID": "[19, 2]",
+    "Kanji": "泊まります",
+    "penjelas kanji": "ホテルに～",
+    "Kana": "とまります",
+    "penjelas kana": "ホテルに～",
+    "Romaji": "tomarimasu ",
+    "penjelas romaji": "hoteruni~",
+    "Meaning (EN)": "stay [at a hotel]"
+  },
+  {
+    "ID": "[44, 1]",
+    "Kanji": "泣きます",
+    "penjelas kanji": "",
+    "Kana": "なきます",
+    "penjelas kana": "",
+    "Romaji": "nakimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "cry"
+  },
+  {
+    "ID": "[42, 52]",
+    "Kanji": "注ぎます",
+    "penjelas kanji": "",
+    "Kana": "そそぎます",
+    "penjelas kana": "",
+    "Romaji": "sosogimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "pour"
+  },
+  {
+    "ID": "[33, 9]",
+    "Kanji": "注意します",
+    "penjelas kanji": "車に～",
+    "Kana": "ちゅういします",
+    "penjelas kana": "くるまに～",
+    "Romaji": "chūishimasu ",
+    "penjelas romaji": "kurumani~",
+    "Meaning (EN)": "be careful [of the cars]"
+  },
+  {
+    "ID": "[37, 6]",
+    "Kanji": "注意します",
+    "penjelas kanji": "",
+    "Kana": "ちゅういします",
+    "penjelas kana": "",
+    "Romaji": "chūishimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "warn, advise"
+  },
+  {
+    "ID": "[13, 2]",
+    "Kanji": "泳ぎます",
+    "penjelas kanji": "",
+    "Kana": "およぎます",
+    "penjelas kana": "",
+    "Romaji": "oyogimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "swim"
+  },
+  {
+    "ID": "[18, 2]",
+    "Kanji": "洗います",
+    "penjelas kanji": "",
+    "Kana": "あらいます",
+    "penjelas kana": "",
+    "Romaji": "araimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "wash"
+  },
+  {
+    "ID": "[19, 4]",
+    "Kanji": "洗濯します",
+    "penjelas kanji": "",
+    "Kana": "せんたくします",
+    "penjelas kana": "",
+    "Romaji": "sentakushimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "wash (clothes)"
+  },
+  {
+    "ID": "[16, 4]",
+    "Kanji": "浴びます",
+    "penjelas kanji": "シャワーを～",
+    "Kana": "あびます",
+    "penjelas kana": "シャワーを～",
+    "Romaji": "abimasu ",
+    "penjelas romaji": "shawāwo~",
+    "Meaning (EN)": "take [a shower]"
+  },
+  {
+    "ID": "[29, 4]",
+    "Kanji": "消えます",
+    "penjelas kanji": "電気が～",
+    "Kana": "きえます",
+    "penjelas kana": "でんきが～",
+    "Romaji": "kiemasu ",
+    "penjelas romaji": "denkiga~",
+    "Meaning (EN)": "[a light] go off"
+  },
+  {
+    "ID": "[14, 2]",
+    "Kanji": "消します",
+    "penjelas kanji": "",
+    "Kana": "けします",
+    "penjelas kana": "",
+    "Romaji": "keshimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "turn off"
+  },
+  {
+    "ID": "[42, 3]",
+    "Kanji": "混ぜます",
+    "penjelas kanji": "",
+    "Kana": "まぜます",
+    "penjelas kana": "",
+    "Romaji": "mazemasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "mix"
+  },
+  {
+    "ID": "[43, 2]",
+    "Kanji": "減ります",
+    "penjelas kanji": "輸出が～",
+    "Kana": "へります",
+    "penjelas kana": "ゆしゅつが～",
+    "Romaji": "herimasu ",
+    "penjelas romaji": "yushutsuga~",
+    "Meaning (EN)": "[exports] decrease"
+  },
+  {
+    "ID": "[46, 1]",
+    "Kanji": "渡します",
+    "penjelas kanji": "",
+    "Kana": "わたします",
+    "penjelas kana": "",
+    "Romaji": "watashimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "hand over"
+  },
+  {
+    "ID": "[23, 8]",
+    "Kanji": "渡ります",
+    "penjelas kanji": "橋を～",
+    "Kana": "わたります",
+    "penjelas kana": "はしを～",
+    "Romaji": "watarimasu ",
+    "penjelas romaji": "hashiwo~",
+    "Meaning (EN)": "cross [a bridge]"
+  },
+  {
+    "ID": "[40, 2]",
+    "Kanji": "測ります、量ります",
+    "penjelas kanji": "",
+    "Kana": "はかります",
+    "penjelas kana": "",
+    "Romaji": "hakarimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "measure, weigh"
+  },
+  {
+    "ID": "[44, 6]",
+    "Kanji": "滑べります",
+    "penjelas kanji": "",
+    "Kana": "すべります",
+    "penjelas kana": "",
+    "Romaji": "suberimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "slip"
+  },
+  {
+    "ID": "[44, 5]",
+    "Kanji": "濡れる",
+    "penjelas kanji": "シャツが～",
+    "Kana": "ぬれます",
+    "penjelas kana": "シャツが～",
+    "Romaji": "nuremasu ",
+    "penjelas romaji": "shatsuga~",
+    "Meaning (EN)": "[a shirt] get wet"
+  },
+  {
+    "ID": "[34, 45]",
+    "Kanji": "火に かけます",
+    "penjelas kanji": "",
+    "Kana": "ひに かけます",
+    "penjelas kana": "",
+    "Romaji": "hini kakemasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "put on the stove"
+  },
+  {
+    "ID": "[32, 15]",
+    "Kanji": "無理を します",
+    "penjelas kanji": "",
+    "Kana": "むりを します",
+    "penjelas kana": "",
+    "Romaji": "muriwo shimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "overdo things"
+  },
+  {
+    "ID": "[46, 7]",
+    "Kanji": "焼きます",
+    "penjelas kanji": "",
+    "Kana": "やきます",
+    "penjelas kana": "",
+    "Romaji": "yakimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "bake, grill, roast"
+  },
+  {
+    "ID": "[37, 40]",
+    "Kanji": "焼けます",
+    "penjelas kanji": "うちが～",
+    "Kana": "やけます",
+    "penjelas kana": "うちが～",
+    "Romaji": "yakemasu ",
+    "penjelas romaji": "uchiga~",
+    "Meaning (EN)": "[house] burn down"
+  },
+  {
+    "ID": "[39, 52]",
+    "Kanji": "焼けます",
+    "penjelas kanji": "うちが～",
+    "Kana": "やけます",
+    "penjelas kana": "うちが～",
+    "Romaji": "yakemasu ",
+    "penjelas romaji": "uchiga~",
+    "Meaning (EN)": "[a house] burn down"
+  },
+  {
+    "ID": "[39, 53]",
+    "Kanji": "焼けます",
+    "penjelas kanji": "パンが～",
+    "Kana": "やけます",
+    "penjelas kana": "パンが～",
+    "Romaji": "yakemasu ",
+    "penjelas romaji": "panga~",
+    "Meaning (EN)": "[bread] be baked"
+  },
+  {
+    "ID": "[39, 54]",
+    "Kanji": "焼けます",
+    "penjelas kanji": "肉が～",
+    "Kana": "やけます",
+    "penjelas kana": "にくが～",
+    "Romaji": "yakemasu ",
+    "penjelas romaji": "nikuga~",
+    "Meaning (EN)": "[meat] be roasted, be grilled"
+  },
+  {
+    "ID": "[46, 8]",
+    "Kanji": "焼けます",
+    "penjelas kanji": "パンが～",
+    "Kana": "やけます",
+    "penjelas kana": "パンが～",
+    "Romaji": "yakemasu ",
+    "penjelas romaji": "panga~",
+    "Meaning (EN)": "[bread] be baked"
+  },
+  {
+    "ID": "[46, 9]",
+    "Kanji": "焼けます",
+    "penjelas kanji": "肉が～",
+    "Kana": "やけます",
+    "penjelas kana": "にくが～",
+    "Romaji": "yakemasu ",
+    "penjelas romaji": "nikuga~",
+    "Meaning (EN)": "[meat] be roasted, be grilled"
+  },
+  {
+    "ID": "[34, 47]",
+    "Kanji": "煮えます",
+    "penjelas kanji": "",
+    "Kana": "にえます",
+    "penjelas kana": "",
+    "Romaji": "niemasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "be cooked, be boiled"
+  },
+  {
+    "ID": "[34, 46]",
+    "Kanji": "煮ます",
+    "penjelas kanji": "",
+    "Kana": "にます",
+    "penjelas kana": "",
+    "Romaji": "nimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "cook, boil"
+  },
+  {
+    "ID": "[26, 56]",
+    "Kanji": "燃えます",
+    "penjelas kanji": "ごみが～",
+    "Kana": "もえます",
+    "penjelas kana": "ごみが～",
+    "Romaji": "moemasu ",
+    "penjelas romaji": "gomiga~",
+    "Meaning (EN)": "[trash] burn"
+  },
+  {
+    "ID": "[29, 51]",
+    "Kanji": "燃えます",
+    "penjelas kanji": "",
+    "Kana": "もえます",
+    "penjelas kana": "",
+    "Romaji": "moemasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "burn"
+  },
+  {
+    "ID": "[47, 2]",
+    "Kanji": "燃えます",
+    "penjelas kanji": "ごみが～",
+    "Kana": "もえます",
+    "penjelas kana": "ごみが～",
+    "Romaji": "moemasu ",
+    "penjelas romaji": "gomiga~",
+    "Meaning (EN)": "[rubbish] burn"
+  },
+  {
+    "ID": "[26, 31]",
+    "Kanji": "片づきます",
+    "penjelas kanji": "荷物が～",
+    "Kana": "かたづきます",
+    "penjelas kana": "にもつが～",
+    "Romaji": "katazukimasu ",
+    "penjelas romaji": "nimotsuga~",
+    "Meaning (EN)": "[boxes] be put in order, tidy up"
+  },
+  {
+    "ID": "[29, 18]",
+    "Kanji": "片付けます",
+    "penjelas kanji": "",
+    "Kana": "かたづけます",
+    "penjelas kana": "",
+    "Romaji": "katazukemasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "put (things) in order, tidy up"
+  },
+  {
+    "ID": "[30, 49]",
+    "Kanji": "片付けます",
+    "penjelas kanji": "",
+    "Kana": "かたづけます",
+    "penjelas kana": "",
+    "Romaji": "katazukemasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "put things in order, tidy up"
+  },
+  {
+    "ID": "[50, 32]",
+    "Kanji": "生かします",
+    "penjelas kanji": "",
+    "Kana": "いかします",
+    "penjelas kana": "",
+    "Romaji": "ikashimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "make good use of"
+  },
+  {
+    "ID": "[22, 6]",
+    "Kanji": "生まれます",
+    "penjelas kanji": "",
+    "Kana": "うまれます",
+    "penjelas kana": "",
+    "Romaji": "umaremasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "be born"
+  },
+  {
+    "ID": "[30, 39]",
+    "Kanji": "生活します",
+    "penjelas kanji": "",
+    "Kana": "せいかつします",
+    "penjelas kana": "",
+    "Romaji": "seikatsushimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "live"
+  },
+  {
+    "ID": "[45, 31]",
+    "Kanji": "用意します",
+    "penjelas kanji": "",
+    "Kana": "よういします",
+    "penjelas kana": "",
+    "Romaji": "yōishimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "prepare"
+  },
+  {
+    "ID": "[50, 11]",
+    "Kanji": "用意します",
+    "penjelas kanji": "",
+    "Kana": "よういします",
+    "penjelas kana": "",
+    "Romaji": "yōishimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "prepare"
+  },
+  {
+    "ID": "[50, 4]",
+    "Kanji": "申します",
+    "penjelas kanji": "",
+    "Kana": "もうします",
+    "penjelas kana": "",
+    "Romaji": "mōshimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "say (one's name) is ～ (humble equivalent of いいます)"
+  },
+  {
+    "ID": "[26, 49]",
+    "Kanji": "申し込みます",
+    "penjelas kanji": "",
+    "Kana": "もうしこみます",
+    "penjelas kana": "",
+    "Romaji": "mōshikomimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "apply for, enter for"
+  },
+  {
+    "ID": "[31, 5]",
+    "Kanji": "申し込みます",
+    "penjelas kanji": "",
+    "Kana": "もうしこみます",
+    "penjelas kana": "",
+    "Romaji": "mōshikomimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "apply for, enter for"
+  },
+  {
+    "ID": "[21, 10]",
+    "Kanji": "留学します",
+    "penjelas kanji": "",
+    "Kana": "りゅうがくします",
+    "penjelas kana": "",
+    "Romaji": "ryūgakushimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "study abroad"
+  },
+  {
+    "ID": "[25, 18]",
+    "Kanji": "留学します",
+    "penjelas kanji": "",
+    "Kana": "りゅうがくします",
+    "penjelas kana": "",
+    "Romaji": "ryūgakushimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "study abroad"
+  },
+  {
+    "ID": "[13, 4]",
+    "Kanji": "疲れます",
+    "penjelas kanji": "",
+    "Kana": "つかれます",
+    "penjelas kana": "",
+    "Romaji": "tsukaremasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "get tired (when expressing the condition of being tired, つかれました is used)"
+  },
+  {
+    "ID": "[37, 15]",
+    "Kanji": "発明します",
+    "penjelas kanji": "",
+    "Kana": "はつめいします",
+    "penjelas kana": "",
+    "Romaji": "hatsumeishimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "invent"
+  },
+  {
+    "ID": "[37, 16]",
+    "Kanji": "発見します",
+    "penjelas kanji": "",
+    "Kana": "はっけんします",
+    "penjelas kana": "",
+    "Romaji": "hakkenshimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "discover"
+  },
+  {
+    "ID": "[19, 1]",
+    "Kanji": "登ります、上ります",
+    "penjelas kanji": "",
+    "Kana": "のぼります",
+    "penjelas kana": "",
+    "Romaji": "noborimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "climb, go up"
+  },
+  {
+    "ID": "[30, 48]",
+    "Kanji": "目が 覚めます",
+    "penjelas kanji": "",
+    "Kana": "めが さめます",
+    "penjelas kana": "",
+    "Romaji": "mega samemasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "wake up"
+  },
+  {
+    "ID": "[45, 23]",
+    "Kanji": "目が 覚めます",
+    "penjelas kanji": "",
+    "Kana": "めが さめます",
+    "penjelas kana": "",
+    "Romaji": "mega samemasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "wake up"
+  },
+  {
+    "ID": "[49, 26]",
+    "Kanji": "目指します",
+    "penjelas kanji": "",
+    "Kana": "めざします",
+    "penjelas kana": "",
+    "Romaji": "mezashimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "aim for"
+  },
+  {
+    "ID": "[20, 23]",
+    "Kanji": "直します",
+    "penjelas kanji": "",
+    "Kana": "なおします",
+    "penjelas kana": "",
+    "Romaji": "naoshimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "repair, correct"
+  },
+  {
+    "ID": "[24, 2]",
+    "Kanji": "直します",
+    "penjelas kanji": "",
+    "Kana": "なおします",
+    "penjelas kana": "",
+    "Romaji": "naoshimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "repair, correct"
+  },
+  {
+    "ID": "[32, 62]",
+    "Kanji": "直ります",
+    "penjelas kanji": "故障が～",
+    "Kana": "なおります",
+    "penjelas kana": "こしょうが～",
+    "Romaji": "naorimasu ",
+    "penjelas romaji": "koshōga~",
+    "Meaning (EN)": "be fixed, be repaired"
+  },
+  {
+    "ID": "[35, 6]",
+    "Kanji": "直ります",
+    "penjelas kanji": "故障が～",
+    "Kana": "なおります",
+    "penjelas kana": "こしょうが～",
+    "Romaji": "naorimasu ",
+    "penjelas romaji": "koshōga~",
+    "Meaning (EN)": "be fixed, be repaired"
+  },
+  {
+    "ID": "[30, 51]",
+    "Kanji": "相談します",
+    "penjelas kanji": "",
+    "Kana": "そうだんします",
+    "penjelas kana": "",
+    "Romaji": "sōdanshimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "consult, discuss"
+  },
+  {
+    "ID": "[40, 10]",
+    "Kanji": "相談します",
+    "penjelas kanji": "",
+    "Kana": "そうだんします",
+    "penjelas kana": "",
+    "Romaji": "sōdanshimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "consult, discuss"
+  },
+  {
+    "ID": "[37, 52]",
+    "Kanji": "眠ります",
+    "penjelas kanji": "",
+    "Kana": "ねむります",
+    "penjelas kana": "",
+    "Romaji": "nemurimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "sleep"
+  },
+  {
+    "ID": "[44, 3]",
+    "Kanji": "眠ります",
+    "penjelas kanji": "",
+    "Kana": "ねむります",
+    "penjelas kana": "",
+    "Romaji": "nemurimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "sleep"
+  },
+  {
+    "ID": "[45, 39]",
+    "Kanji": "眠ります",
+    "penjelas kanji": "",
+    "Kana": "ねむります",
+    "penjelas kana": "",
+    "Romaji": "nemurimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "sleep"
+  },
+  {
+    "ID": "[25, 2]",
+    "Kanji": "着きます",
+    "penjelas kanji": "",
+    "Kana": "つきます",
+    "penjelas kana": "",
+    "Romaji": "tsukimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "arrive"
+  },
+  {
+    "ID": "[22, 1]",
+    "Kanji": "着ます",
+    "penjelas kanji": "",
+    "Kana": "きます",
+    "penjelas kana": "",
+    "Romaji": "kimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "put on (a shirt, etc.)"
+  },
+  {
+    "ID": "[15, 28]",
+    "Kanji": "知って います",
+    "penjelas kanji": "",
+    "Kana": "しって います",
+    "penjelas kana": "",
+    "Romaji": "shitte imasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "know"
+  },
+  {
+    "ID": "[30, 50]",
+    "Kanji": "知らせます",
+    "penjelas kanji": "",
+    "Kana": "しらせます",
+    "penjelas kana": "",
+    "Romaji": "shirasemasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "inform"
+  },
+  {
+    "ID": "[45, 3]",
+    "Kanji": "知らせます",
+    "penjelas kanji": "",
+    "Kana": "しらせます",
+    "penjelas kana": "",
+    "Romaji": "shirasemasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "inform"
+  },
+  {
+    "ID": "[15, 4]",
+    "Kanji": "知ります",
+    "penjelas kanji": "",
+    "Kana": "しります",
+    "penjelas kana": "",
+    "Romaji": "shirimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "get to know"
+  },
+  {
+    "ID": "[43, 25]",
+    "Kanji": "知り合います",
+    "penjelas kanji": "",
+    "Kana": "しりあいます",
+    "penjelas kana": "",
+    "Romaji": "shiriaimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "get acquainted"
+  },
+  {
+    "ID": "[47, 29]",
+    "Kanji": "知り合います",
+    "penjelas kanji": "",
+    "Kana": "しりあいます",
+    "penjelas kana": "",
+    "Romaji": "shiriaimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "get acquainted"
+  },
+  {
+    "ID": "[15, 6]",
+    "Kanji": "研究します",
+    "penjelas kanji": "",
+    "Kana": "けんきゅうします",
+    "penjelas kana": "",
+    "Romaji": "kenkyūshimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "do research"
+  },
+  {
+    "ID": "[29, 8]",
+    "Kanji": "破れます",
+    "penjelas kanji": "紙が～",
+    "Kana": "やぶれます",
+    "penjelas kana": "かみが～",
+    "Romaji": "yaburemasu ",
+    "penjelas romaji": "kamiga~",
+    "Meaning (EN)": "[paper] tear"
+  },
+  {
+    "ID": "[40, 3]",
+    "Kanji": "確かめます",
+    "penjelas kanji": "",
+    "Kana": "たしかめます",
+    "penjelas kana": "",
+    "Romaji": "tashikamemasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "confirm, make sure"
+  },
+  {
+    "ID": "[34, 1]",
+    "Kanji": "磨きます",
+    "penjelas kanji": "歯を～",
+    "Kana": "みがきます",
+    "penjelas kana": "はを～",
+    "Romaji": "migakimasu ",
+    "penjelas romaji": "hawo~",
+    "Meaning (EN)": "brush [one's teeth], polish"
+  },
+  {
+    "ID": "[40, 53]",
+    "Kanji": "積みます",
+    "penjelas kanji": "",
+    "Kana": "つみます",
+    "penjelas kana": "",
+    "Romaji": "tsumimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "load, pile up"
+  },
+  {
+    "ID": "[14, 17]",
+    "Kanji": "立ちます",
+    "penjelas kanji": "",
+    "Kana": "たちます",
+    "penjelas kana": "",
+    "Romaji": "tachimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "stand up"
+  },
+  {
+    "ID": "[15, 25]",
+    "Kanji": "立ちます",
+    "penjelas kanji": "",
+    "Kana": "たちます",
+    "penjelas kana": "",
+    "Romaji": "tachimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "stand up"
+  },
+  {
+    "ID": "[48, 33]",
+    "Kanji": "競走します",
+    "penjelas kanji": "",
+    "Kana": "きょうそうします",
+    "penjelas kana": "",
+    "Romaji": "kyōsōshimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "race"
+  },
+  {
+    "ID": "[44, 2]",
+    "Kanji": "笑います",
+    "penjelas kanji": "",
+    "Kana": "わらいます",
+    "penjelas kana": "",
+    "Romaji": "waraimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "laugh, smile"
+  },
+  {
+    "ID": "[39, 1]",
+    "Kanji": "答えます",
+    "penjelas kanji": "質問に～",
+    "Kana": "こたえます",
+    "penjelas kana": "しつもんに～",
+    "Romaji": "kotaemasu ",
+    "penjelas romaji": "shitsumonni~",
+    "Meaning (EN)": "answer [a question]"
+  },
+  {
+    "ID": "[24, 6]",
+    "Kanji": "紹介します",
+    "penjelas kanji": "",
+    "Kana": "しょうかいします",
+    "penjelas kana": "",
+    "Romaji": "shōkaishimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "introduce"
+  },
+  {
+    "ID": "[4, 6]",
+    "Kanji": "終わります",
+    "penjelas kanji": "",
+    "Kana": "おわります",
+    "penjelas kana": "",
+    "Romaji": "owarimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "finish"
+  },
+  {
+    "ID": "[34, 2]",
+    "Kanji": "組み立てます",
+    "penjelas kanji": "",
+    "Kana": "くみたてます",
+    "penjelas kana": "",
+    "Romaji": "kumitatemasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "assemble"
+  },
+  {
+    "ID": "[13, 5]",
+    "Kanji": "結婚します",
+    "penjelas kanji": "",
+    "Kana": "けっこんします",
+    "penjelas kana": "",
+    "Romaji": "kekkonshimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "marry, get married"
+  },
+  {
+    "ID": "[31, 1]",
+    "Kanji": "続けます",
+    "penjelas kanji": "",
+    "Kana": "つづけます",
+    "penjelas kana": "",
+    "Romaji": "tsuzukemasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "continue"
+  },
+  {
+    "ID": "[32, 8]",
+    "Kanji": "続づきます",
+    "penjelas kanji": "熱が～",
+    "Kana": "つづきます",
+    "penjelas kana": "ねつが～",
+    "Romaji": "tsuzukimasu ",
+    "penjelas romaji": "netsuga~",
+    "Meaning (EN)": "[high temperature/fever] continue"
+  },
+  {
+    "ID": "[50, 21]",
+    "Kanji": "緊張します",
+    "penjelas kanji": "",
+    "Kana": "きんちょうします",
+    "penjelas kana": "",
+    "Romaji": "kinchōshimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "become tense, be strained, be nervous"
+  },
+  {
+    "ID": "[15, 1]",
+    "Kanji": "置きます",
+    "penjelas kanji": "",
+    "Kana": "おきます",
+    "penjelas kana": "",
+    "Romaji": "okimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "put"
+  },
+  {
+    "ID": "[33, 43]",
+    "Kanji": "置きます",
+    "penjelas kanji": "",
+    "Kana": "おきます",
+    "penjelas kana": "",
+    "Romaji": "okimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "happen"
+  },
+  {
+    "ID": "[7, 8]",
+    "Kanji": "習います",
+    "penjelas kanji": "",
+    "Kana": "ならいます",
+    "penjelas kana": "",
+    "Romaji": "naraimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "learn"
+  },
+  {
+    "ID": "[37, 14]",
+    "Kanji": "翻訳します",
+    "penjelas kanji": "",
+    "Kana": "ほんやくします",
+    "penjelas kana": "",
+    "Romaji": "hon'yakushimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "translate"
+  },
+  {
+    "ID": "[25, 1]",
+    "Kanji": "考えます",
+    "penjelas kanji": "",
+    "Kana": "かんがえます",
+    "penjelas kana": "",
+    "Romaji": "kangaemasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "think, consider"
+  },
+  {
+    "ID": "[6, 5]",
+    "Kanji": "聞きます",
+    "penjelas kanji": "",
+    "Kana": "ききます",
+    "penjelas kana": "",
+    "Romaji": "kikimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "hear, listen"
+  },
+  {
+    "ID": "[23, 1]",
+    "Kanji": "聞きます",
+    "penjelas kanji": "先生に～",
+    "Kana": "ききます",
+    "penjelas kana": "せんせいに～",
+    "Romaji": "kikimasu ",
+    "penjelas romaji": "senseini~",
+    "Meaning (EN)": "ask [the teacher]"
+  },
+  {
+    "ID": "[27, 4]",
+    "Kanji": "聞こえます",
+    "penjelas kanji": "音が～",
+    "Kana": "きこえます",
+    "penjelas kana": "おとが～",
+    "Romaji": "kikoemasu ",
+    "penjelas romaji": "otoga~",
+    "Meaning (EN)": "[a sound] can be heard"
+  },
+  {
+    "ID": "[38, 2]",
+    "Kanji": "育てます",
+    "penjelas kanji": "",
+    "Kana": "そだてます",
+    "penjelas kana": "",
+    "Romaji": "sodatemasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "breed, bring up"
+  },
+  {
+    "ID": "[17, 7]",
+    "Kanji": "脱ぎます",
+    "penjelas kanji": "",
+    "Kana": "ぬぎます",
+    "penjelas kana": "",
+    "Romaji": "nugimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "take off (clothes, shoes, etc.)"
+  },
+  {
+    "ID": "[36, 5]",
+    "Kanji": "腐ります",
+    "penjelas kanji": "食べ物が～",
+    "Kana": "くさります",
+    "penjelas kana": "たべものが～",
+    "Romaji": "kusarimasu ",
+    "penjelas romaji": "tabemonoga~",
+    "Meaning (EN)": "[food] rot"
+  },
+  {
+    "ID": "[29, 14]",
+    "Kanji": "落します",
+    "penjelas kanji": "",
+    "Kana": "おとします",
+    "penjelas kana": "",
+    "Romaji": "otoshimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "drop, loose"
+  },
+  {
+    "ID": "[43, 7]",
+    "Kanji": "落ちます",
+    "penjelas kanji": "荷物が～",
+    "Kana": "おちます",
+    "penjelas kana": "にもつ～",
+    "Romaji": "ochimasu ",
+    "penjelas romaji": "nimotsu~",
+    "Meaning (EN)": "[baggage] fall down"
+  },
+  {
+    "ID": "[37, 11]",
+    "Kanji": "行います",
+    "penjelas kanji": "",
+    "Kana": "おこないます",
+    "penjelas kana": "",
+    "Romaji": "okonaimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "hold, carry out, practise"
+  },
+  {
+    "ID": "[5, 1]",
+    "Kanji": "行ます",
+    "penjelas kanji": "",
+    "Kana": "いきます",
+    "penjelas kana": "",
+    "Romaji": "ikimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "go"
+  },
+  {
+    "ID": "[37, 1]",
+    "Kanji": "褒めます",
+    "penjelas kanji": "",
+    "Kana": "ほめます",
+    "penjelas kana": "",
+    "Romaji": "homemasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "praise"
+  },
+  {
+    "ID": "[39, 47]",
+    "Kanji": "西洋化します",
+    "penjelas kanji": "",
+    "Kana": "せいようかします",
+    "penjelas kana": "",
+    "Romaji": "seiyōkashimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "be Westernized"
+  },
+  {
+    "ID": "[20, 1]",
+    "Kanji": "要ります",
+    "penjelas kanji": "ビザが～",
+    "Kana": "いります",
+    "penjelas kana": "ビザが～",
+    "Romaji": "irimasu ",
+    "penjelas romaji": "bizaga~",
+    "Meaning (EN)": "need, require [a visa]"
+  },
+  {
+    "ID": "[27, 3]",
+    "Kanji": "見えます",
+    "penjelas kanji": "山が～",
+    "Kana": "みえます",
+    "penjelas kana": "やまが～",
+    "Romaji": "miemasu ",
+    "penjelas romaji": "yamaga~",
+    "Meaning (EN)": "[a mountain] can be seen"
+  },
+  {
+    "ID": "[14, 14]",
+    "Kanji": "見せます",
+    "penjelas kanji": "",
+    "Kana": "みせます",
+    "penjelas kana": "",
+    "Romaji": "misemasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "show"
+  },
+  {
+    "ID": "[34, 6]",
+    "Kanji": "見つかります",
+    "penjelas kanji": "かぎが～",
+    "Kana": "みつかります",
+    "penjelas kana": "かぎが～",
+    "Romaji": "mitsukarimasu ",
+    "penjelas romaji": "kagiga~",
+    "Meaning (EN)": "[a key] be found"
+  },
+  {
+    "ID": "[31, 2]",
+    "Kanji": "見つけます",
+    "penjelas kanji": "",
+    "Kana": "みつけます",
+    "penjelas kana": "",
+    "Romaji": "mitsukemasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "find"
+  },
+  {
+    "ID": "[6, 4]",
+    "Kanji": "見ます",
+    "penjelas kanji": "",
+    "Kana": "みます",
+    "penjelas kana": "",
+    "Romaji": "mimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "see, look at, watch"
+  },
+  {
+    "ID": "[26, 1]",
+    "Kanji": "見ます、診ます",
+    "penjelas kanji": "",
+    "Kana": "みます",
+    "penjelas kana": "",
+    "Romaji": "mimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "check, take a look at"
+  },
+  {
+    "ID": "[16, 13]",
+    "Kanji": "見学します",
+    "penjelas kanji": "",
+    "Kana": "けんがくします",
+    "penjelas kana": "",
+    "Romaji": "kengakushimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "tour, visit a place to study it"
+  },
+  {
+    "ID": "[18, 31]",
+    "Kanji": "見学します",
+    "penjelas kanji": "",
+    "Kana": "けんがくします",
+    "penjelas kana": "",
+    "Romaji": "kengakushimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "visit some place for study"
+  },
+  {
+    "ID": "[17, 1]",
+    "Kanji": "覚えます",
+    "penjelas kanji": "",
+    "Kana": "おぼえます",
+    "penjelas kana": "",
+    "Romaji": "oboemasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "memorise"
+  },
+  {
+    "ID": "[41, 6]",
+    "Kanji": "親切に します",
+    "penjelas kanji": "",
+    "Kana": "しんせつに します",
+    "penjelas kana": "",
+    "Romaji": "shinsetsuni shimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "be kind to"
+  },
+  {
+    "ID": "[23, 5]",
+    "Kanji": "触ります",
+    "penjelas kanji": "ドアに～",
+    "Kana": "さわります",
+    "penjelas kana": "ドアに～",
+    "Romaji": "sawarimasu ",
+    "penjelas romaji": "doani~",
+    "Meaning (EN)": "touch [a door]"
+  },
+  {
+    "ID": "[21, 2]",
+    "Kanji": "言います",
+    "penjelas kanji": "",
+    "Kana": "いいます",
+    "penjelas kana": "",
+    "Romaji": "iimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "say"
+  },
+  {
+    "ID": "[42, 4]",
+    "Kanji": "計算します",
+    "penjelas kanji": "",
+    "Kana": "けいさんします",
+    "penjelas kana": "",
+    "Romaji": "keisanshimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "calculate"
+  },
+  {
+    "ID": "[37, 64]",
+    "Kanji": "設計します",
+    "penjelas kanji": "",
+    "Kana": "せっけいします",
+    "penjelas kana": "",
+    "Romaji": "sekkeishimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "design, plan"
+  },
+  {
+    "ID": "[14, 11]",
+    "Kanji": "話します",
+    "penjelas kanji": "",
+    "Kana": "はなします",
+    "penjelas kana": "",
+    "Romaji": "hanashimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "speak, talk"
+  },
+  {
+    "ID": "[28, 53]",
+    "Kanji": "誘います",
+    "penjelas kanji": "",
+    "Kana": "さそいます",
+    "penjelas kana": "",
+    "Romaji": "sasoimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "invite, ask someone to join"
+  },
+  {
+    "ID": "[37, 3]",
+    "Kanji": "誘います",
+    "penjelas kanji": "",
+    "Kana": "さそいます",
+    "penjelas kana": "",
+    "Romaji": "sasoimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "invite, ask someone to join"
+  },
+  {
+    "ID": "[24, 8]",
+    "Kanji": "説明します",
+    "penjelas kanji": "",
+    "Kana": "せつめいします",
+    "penjelas kana": "",
+    "Romaji": "setsumeishimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "explain"
+  },
+  {
+    "ID": "[6, 6]",
+    "Kanji": "読みます",
+    "penjelas kanji": "",
+    "Kana": "よみます",
+    "penjelas kana": "",
+    "Romaji": "yomimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "read"
+  },
+  {
+    "ID": "[20, 2]",
+    "Kanji": "調べます",
+    "penjelas kanji": "",
+    "Kana": "しらべます",
+    "penjelas kana": "",
+    "Romaji": "shirabemasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "check, investigate"
+  },
+  {
+    "ID": "[44, 8]",
+    "Kanji": "調節します",
+    "penjelas kanji": "",
+    "Kana": "ちょうせつします",
+    "penjelas kana": "",
+    "Romaji": "chōsetsushimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "adjust"
+  },
+  {
+    "ID": "[43, 24]",
+    "Kanji": "謝ります",
+    "penjelas kanji": "",
+    "Kana": "あやまります",
+    "penjelas kana": "",
+    "Romaji": "ayamarimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "apologize"
+  },
+  {
+    "ID": "[45, 29]",
+    "Kanji": "謝ります",
+    "penjelas kanji": "",
+    "Kana": "あやまります",
+    "penjelas kana": "",
+    "Romaji": "ayamarimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "apologize"
+  },
+  {
+    "ID": "[21, 4]",
+    "Kanji": "負けます",
+    "penjelas kanji": "",
+    "Kana": "まけます",
+    "penjelas kana": "",
+    "Romaji": "makemasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "lose, be beaten"
+  },
+  {
+    "ID": "[7, 5]",
+    "Kanji": "貨します",
+    "penjelas kanji": "",
+    "Kana": "かします",
+    "penjelas kana": "",
+    "Romaji": "kashimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "lend"
+  },
+  {
+    "ID": "[36, 2]",
+    "Kanji": "貯金します",
+    "penjelas kanji": "",
+    "Kana": "ちょきんします",
+    "penjelas kana": "",
+    "Romaji": "chokinshimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "save money"
+  },
+  {
+    "ID": "[6, 8]",
+    "Kanji": "買います",
+    "penjelas kanji": "",
+    "Kana": "かいます",
+    "penjelas kana": "",
+    "Romaji": "kaimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "buy"
+  },
+  {
+    "ID": "[13, 6]",
+    "Kanji": "買い物します",
+    "penjelas kanji": "",
+    "Kana": "かいものします",
+    "penjelas kana": "",
+    "Romaji": "kaimonoshimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "do shopping"
+  },
+  {
+    "ID": "[34, 7]",
+    "Kanji": "質問します",
+    "penjelas kanji": "",
+    "Kana": "しつもんします",
+    "penjelas kana": "",
+    "Romaji": "shitsumonshimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "ask a question"
+  },
+  {
+    "ID": "[27, 2]",
+    "Kanji": "走ります",
+    "penjelas kanji": "道を～",
+    "Kana": "はしります",
+    "penjelas kana": "みちを～",
+    "Romaji": "hashirimasu ",
+    "penjelas romaji": "michiwo~",
+    "Meaning (EN)": "run, drive [along a road]"
+  },
+  {
+    "ID": "[4, 1]",
+    "Kanji": "起きます",
+    "penjelas kanji": "",
+    "Kana": "おきます",
+    "penjelas kana": "",
+    "Romaji": "okimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "get up, wake up"
+  },
+  {
+    "ID": "[44, 7]",
+    "Kanji": "起きます",
+    "penjelas kanji": "事故が～",
+    "Kana": "おきます",
+    "penjelas kana": "じこが～",
+    "Romaji": "okimasu ",
+    "penjelas romaji": "jikoga~",
+    "Meaning (EN)": "[an accident] happen"
+  },
+  {
+    "ID": "[37, 63]",
+    "Kanji": "起こします",
+    "penjelas kanji": "",
+    "Kana": "おこします",
+    "penjelas kana": "",
+    "Romaji": "okoshimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "wake (someone) up"
+  },
+  {
+    "ID": "[21, 52]",
+    "Kanji": "足ります",
+    "penjelas kanji": "",
+    "Kana": "たります",
+    "penjelas kana": "",
+    "Romaji": "tarimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "be enough, be sufficient"
+  },
+  {
+    "ID": "[25, 4]",
+    "Kanji": "足ります",
+    "penjelas kanji": "",
+    "Kana": "たります",
+    "penjelas kana": "",
+    "Romaji": "tarimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "be enough, be sufficient"
+  },
+  {
+    "ID": "[28, 2]",
+    "Kanji": "踊ります",
+    "penjelas kanji": "",
+    "Kana": "おどります",
+    "penjelas kana": "",
+    "Romaji": "odorimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "dance"
+  },
+  {
+    "ID": "[37, 8]",
+    "Kanji": "踏みます",
+    "penjelas kanji": "",
+    "Kana": "ふみます",
+    "penjelas kana": "",
+    "Romaji": "fumimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "step on (someone's foot)"
+  },
+  {
+    "ID": "[46, 28]",
+    "Kanji": "転びます",
+    "penjelas kanji": "",
+    "Kana": "ころびます",
+    "penjelas kana": "",
+    "Romaji": "korobimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "fall down, fall over"
+  },
+  {
+    "ID": "[34, 31]",
+    "Kanji": "載せます",
+    "penjelas kanji": "",
+    "Kana": "のせます",
+    "penjelas kana": "",
+    "Romaji": "nosemasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "place on, load onto"
+  },
+  {
+    "ID": "[37, 13]",
+    "Kanji": "輸入します",
+    "penjelas kanji": "",
+    "Kana": "ゆにゅうします",
+    "penjelas kana": "",
+    "Romaji": "yunyūshimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "import"
+  },
+  {
+    "ID": "[37, 12]",
+    "Kanji": "輸出します",
+    "penjelas kanji": "",
+    "Kana": "ゆしゅつします",
+    "penjelas kana": "",
+    "Romaji": "yushutsushimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "export"
+  },
+  {
+    "ID": "[29, 53]",
+    "Kanji": "込みます",
+    "penjelas kanji": "道が～",
+    "Kana": "こみます",
+    "penjelas kana": "みちが～",
+    "Romaji": "komimasu ",
+    "penjelas romaji": "michiga~",
+    "Meaning (EN)": "[a road] get crowded"
+  },
+  {
+    "ID": "[32, 11]",
+    "Kanji": "込みます",
+    "penjelas kanji": "道が～",
+    "Kana": "こみます",
+    "penjelas kana": "みちが～",
+    "Romaji": "komimasu ",
+    "penjelas romaji": "michiga~",
+    "Meaning (EN)": "[a road] get crowded"
+  },
+  {
+    "ID": "[13, 3]",
+    "Kanji": "迎えます",
+    "penjelas kanji": "",
+    "Kana": "むかえます",
+    "penjelas kana": "",
+    "Romaji": "mukaemasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "go to meet, welcome"
+  },
+  {
+    "ID": "[17, 5]",
+    "Kanji": "返します",
+    "penjelas kanji": "",
+    "Kana": "かえします",
+    "penjelas kana": "",
+    "Romaji": "kaeshimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "give back, return"
+  },
+  {
+    "ID": "[50, 31]",
+    "Kanji": "迷惑を かけます",
+    "penjelas kanji": "",
+    "Kana": "めいわくを かけます",
+    "penjelas kana": "",
+    "Romaji": "meiwakuwo kakemasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "cause trouble, annoyance, inconvenience"
+  },
+  {
+    "ID": "[38, 5]",
+    "Kanji": "退院します",
+    "penjelas kanji": "",
+    "Kana": "たいいんします",
+    "penjelas kana": "",
+    "Romaji": "taiinshimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "leave hospital"
+  },
+  {
+    "ID": "[7, 2]",
+    "Kanji": "送ります",
+    "penjelas kanji": "",
+    "Kana": "おくります",
+    "penjelas kana": "",
+    "Romaji": "okurimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "send"
+  },
+  {
+    "ID": "[24, 5]",
+    "Kanji": "送ります",
+    "penjelas kanji": "人を～",
+    "Kana": "おくります",
+    "penjelas kana": "ひとを～",
+    "Romaji": "okurimasu ",
+    "penjelas romaji": "hitowo~",
+    "Meaning (EN)": "escort [someone], go with"
+  },
+  {
+    "ID": "[33, 1]",
+    "Kanji": "逃げます",
+    "penjelas kanji": "",
+    "Kana": "にげます",
+    "penjelas kana": "",
+    "Romaji": "nigemasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "run away"
+  },
+  {
+    "ID": "[28, 5]",
+    "Kanji": "通います",
+    "penjelas kanji": "大学に～",
+    "Kana": "かよいます",
+    "penjelas kana": "だいがくに～",
+    "Romaji": "kayoimasu ",
+    "penjelas romaji": "daigakuni~",
+    "Meaning (EN)": "go to and from [university]"
+  },
+  {
+    "ID": "[39, 3]",
+    "Kanji": "通ります",
+    "penjelas kanji": "道を～",
+    "Kana": "とおります",
+    "penjelas kana": "みちを～",
+    "Romaji": "tōrimasu ",
+    "penjelas romaji": "michiwo~",
+    "Meaning (EN)": "pass [along a street]"
+  },
+  {
+    "ID": "[24, 4]",
+    "Kanji": "連れて 来ます",
+    "penjelas kanji": "",
+    "Kana": "つれて きます",
+    "penjelas kana": "",
+    "Romaji": "tsurete kimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "bring (someone)"
+  },
+  {
+    "ID": "[24, 3]",
+    "Kanji": "連れて 行きます",
+    "penjelas kanji": "",
+    "Kana": "つれて いきます",
+    "penjelas kana": "",
+    "Romaji": "tsurete ikimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "take (someone)"
+  },
+  {
+    "ID": "[26, 7]",
+    "Kanji": "連絡します",
+    "penjelas kanji": "",
+    "Kana": "れんらくします",
+    "penjelas kana": "",
+    "Romaji": "renrakushimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "contact, get in touch with"
+  },
+  {
+    "ID": "[49, 27]",
+    "Kanji": "進みます",
+    "penjelas kanji": "",
+    "Kana": "すすみます",
+    "penjelas kana": "",
+    "Romaji": "susumimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "go on (to graduate school)"
+  },
+  {
+    "ID": "[26, 3]",
+    "Kanji": "遅れます",
+    "penjelas kanji": "時間に～",
+    "Kana": "おくれます",
+    "penjelas kana": "じかんに～",
+    "Romaji": "okuremasu ",
+    "penjelas romaji": "jikanni~",
+    "Meaning (EN)": "be late [for an appointment, etc.]"
+  },
+  {
+    "ID": "[39, 55]",
+    "Kanji": "遅刻します",
+    "penjelas kanji": "",
+    "Kana": "ちこくします",
+    "penjelas kana": "",
+    "Romaji": "chikokushimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "be late, come late"
+  },
+  {
+    "ID": "[13, 1]",
+    "Kanji": "遊びます",
+    "penjelas kanji": "",
+    "Kana": "あそびます",
+    "penjelas kana": "",
+    "Romaji": "asobimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "enjoy oneself, play"
+  },
+  {
+    "ID": "[36, 38]",
+    "Kanji": "運びます",
+    "penjelas kanji": "",
+    "Kana": "はこびます",
+    "penjelas kana": "",
+    "Romaji": "hakobimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "carry, transport"
+  },
+  {
+    "ID": "[38, 3]",
+    "Kanji": "運びます",
+    "penjelas kanji": "",
+    "Kana": "はこびます",
+    "penjelas kana": "",
+    "Romaji": "hakobimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "carry, transport"
+  },
+  {
+    "ID": "[32, 1]",
+    "Kanji": "運動します",
+    "penjelas kanji": "",
+    "Kana": "うんどうします",
+    "penjelas kana": "",
+    "Romaji": "undōshimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "(take) exercise"
+  },
+  {
+    "ID": "[18, 8]",
+    "Kanji": "運転します",
+    "penjelas kanji": "",
+    "Kana": "うんてんします",
+    "penjelas kana": "",
+    "Romaji": "untenshimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "drive"
+  },
+  {
+    "ID": "[36, 3]",
+    "Kanji": "過ぎます",
+    "penjelas kanji": "７時を～",
+    "Kana": "すぎます",
+    "penjelas kana": "７じを～",
+    "Romaji": "sugimasu ",
+    "penjelas romaji": "7jiwo~",
+    "Meaning (EN)": "pass [7 o'clock]"
+  },
+  {
+    "ID": "[49, 4]",
+    "Kanji": "過ごします",
+    "penjelas kanji": "",
+    "Kana": "すごします",
+    "penjelas kana": "",
+    "Romaji": "sugoshimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "spend (time), pass (time)"
+  },
+  {
+    "ID": "[26, 45]",
+    "Kanji": "違います",
+    "penjelas kanji": "",
+    "Kana": "ちがいます",
+    "penjelas kana": "",
+    "Romaji": "chigaimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "be different"
+  },
+  {
+    "ID": "[28, 55]",
+    "Kanji": "違います",
+    "penjelas kanji": "",
+    "Kana": "ちがいます",
+    "penjelas kana": "",
+    "Romaji": "chigaimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "be different"
+  },
+  {
+    "ID": "[36, 27]",
+    "Kanji": "違います",
+    "penjelas kanji": "",
+    "Kana": "ちがいます",
+    "penjelas kana": "",
+    "Romaji": "chigaimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "be different"
+  },
+  {
+    "ID": "[28, 4]",
+    "Kanji": "選びます",
+    "penjelas kanji": "",
+    "Kana": "えらびます",
+    "penjelas kana": "",
+    "Romaji": "erabimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "choose"
+  },
+  {
+    "ID": "[40, 7]",
+    "Kanji": "酔います",
+    "penjelas kanji": "",
+    "Kana": "よいます",
+    "penjelas kana": "",
+    "Romaji": "yoimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "get drunk"
+  },
+  {
+    "ID": "[48, 4]",
+    "Kanji": "録音します",
+    "penjelas kanji": "",
+    "Kana": "ろくおんします",
+    "penjelas kana": "",
+    "Romaji": "rokuonshimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "record"
+  },
+  {
+    "ID": "[31, 37]",
+    "Kanji": "閉じます",
+    "penjelas kanji": "",
+    "Kana": "とじます",
+    "penjelas kana": "",
+    "Romaji": "tojimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "close"
+  },
+  {
+    "ID": "[29, 2]",
+    "Kanji": "閉まりる",
+    "penjelas kanji": "ドアが～",
+    "Kana": "しまります",
+    "penjelas kana": "ドアが～",
+    "Romaji": "shimarimasu ",
+    "penjelas romaji": "doaga~",
+    "Meaning (EN)": "[a door] close, shut"
+  },
+  {
+    "ID": "[14, 4]",
+    "Kanji": "閉めます",
+    "penjelas kanji": "",
+    "Kana": "しめます",
+    "penjelas kana": "",
+    "Romaji": "shimemasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "close, shut"
+  },
+  {
+    "ID": "[29, 1]",
+    "Kanji": "開きます",
+    "penjelas kanji": "ドアが～",
+    "Kana": "あきます",
+    "penjelas kana": "ドアが～",
+    "Romaji": "akimasu ",
+    "penjelas romaji": "doaga~",
+    "Meaning (EN)": "[a door] open"
+  },
+  {
+    "ID": "[27, 6]",
+    "Kanji": "開きます",
+    "penjelas kanji": "教室を～",
+    "Kana": "ひらきます",
+    "penjelas kana": "きょうしつを～",
+    "Romaji": "hirakimasu ",
+    "penjelas romaji": "kyōshitsuwo~",
+    "Meaning (EN)": "set up [a class], open, hold"
+  },
+  {
+    "ID": "[14, 3]",
+    "Kanji": "開けます",
+    "penjelas kanji": "",
+    "Kana": "あけます",
+    "penjelas kana": "",
+    "Romaji": "akemasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "open"
+  },
+  {
+    "ID": "[49, 29]",
+    "Kanji": "開発します",
+    "penjelas kanji": "",
+    "Kana": "かいはつします",
+    "penjelas kana": "",
+    "Romaji": "kaihatsushimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "develop, create"
+  },
+  {
+    "ID": "[26, 4]",
+    "Kanji": "間に 合います",
+    "penjelas kanji": "時間に～",
+    "Kana": "まに あいます",
+    "penjelas kana": "じかんに～",
+    "Romaji": "mani aimasu ",
+    "penjelas romaji": "jikanni~",
+    "Meaning (EN)": "be in time [for an appointment, etc.]"
+  },
+  {
+    "ID": "[16, 2]",
+    "Kanji": "降ります",
+    "penjelas kanji": "電車を～",
+    "Kana": "おります",
+    "penjelas kana": "でんしゃを～",
+    "Romaji": "orimasu ",
+    "penjelas romaji": "denshawo~",
+    "Meaning (EN)": "get off"
+  },
+  {
+    "ID": "[34, 3]",
+    "Kanji": "降ります",
+    "penjelas kanji": "",
+    "Kana": "おります",
+    "penjelas kana": "",
+    "Romaji": "orimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "bend, fold, break, snap"
+  },
+  {
+    "ID": "[14, 20]",
+    "Kanji": "降ります",
+    "penjelas kanji": "雨が～",
+    "Kana": "ふります",
+    "penjelas kana": "あめが～",
+    "Romaji": "furimasu ",
+    "penjelas romaji": "amega~",
+    "Meaning (EN)": "rain"
+  },
+  {
+    "ID": "[48, 1]",
+    "Kanji": "降ろします、下ろします",
+    "penjelas kanji": "",
+    "Kana": "おろします",
+    "penjelas kana": "",
+    "Romaji": "oroshimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "put down, lower, unload"
+  },
+  {
+    "ID": "[31, 50]",
+    "Kanji": "集まります",
+    "penjelas kanji": "",
+    "Kana": "あつまります",
+    "penjelas kana": "",
+    "Romaji": "atsumarimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "gather"
+  },
+  {
+    "ID": "[47, 4]",
+    "Kanji": "集まります",
+    "penjelas kanji": "人が～",
+    "Kana": "あつまります",
+    "penjelas kana": "ひとが～",
+    "Romaji": "atsumarimasu ",
+    "penjelas romaji": "hitoga~",
+    "Meaning (EN)": "[people] gather"
+  },
+  {
+    "ID": "[18, 5]",
+    "Kanji": "集めます",
+    "penjelas kanji": "",
+    "Kana": "あつめます",
+    "penjelas kana": "",
+    "Romaji": "atsumemasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "collect, gather"
+  },
+  {
+    "ID": "[39, 9]",
+    "Kanji": "離婚します",
+    "penjelas kanji": "",
+    "Kana": "りこんします",
+    "penjelas kana": "",
+    "Romaji": "rikonshimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "divorce"
+  },
+  {
+    "ID": "[16, 14]",
+    "Kanji": "電話します",
+    "penjelas kanji": "",
+    "Kana": "でんわします",
+    "penjelas kana": "",
+    "Romaji": "denwashimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "phone"
+  },
+  {
+    "ID": "[20, 24]",
+    "Kanji": "電話します",
+    "penjelas kanji": "",
+    "Kana": "でんわします",
+    "penjelas kana": "",
+    "Romaji": "denwashimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "phone"
+  },
+  {
+    "ID": "[41, 68]",
+    "Kanji": "預かります",
+    "penjelas kanji": "",
+    "Kana": "あずかります",
+    "penjelas kana": "",
+    "Romaji": "azukarimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "keep, receive (a thing) in trust"
+  },
+  {
+    "ID": "[25, 15]",
+    "Kanji": "頑張ります",
+    "penjelas kanji": "",
+    "Kana": "がんばります",
+    "penjelas kana": "",
+    "Romaji": "ganbarimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "do one's best"
+  },
+  {
+    "ID": "[37, 5]",
+    "Kanji": "頼みます",
+    "penjelas kanji": "",
+    "Kana": "たのみます",
+    "penjelas kana": "",
+    "Romaji": "tanomimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "ask, request"
+  },
+  {
+    "ID": "[27, 40]",
+    "Kanji": "飛びます",
+    "penjelas kanji": "",
+    "Kana": "とびます",
+    "penjelas kana": "",
+    "Romaji": "tobimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "fly"
+  },
+  {
+    "ID": "[36, 57]",
+    "Kanji": "飛びます",
+    "penjelas kanji": "",
+    "Kana": "とびます",
+    "penjelas kana": "",
+    "Romaji": "tobimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "fly"
+  },
+  {
+    "ID": "[6, 1]",
+    "Kanji": "食べます",
+    "penjelas kanji": "",
+    "Kana": "たべます",
+    "penjelas kana": "",
+    "Romaji": "tabemasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "eat"
+  },
+  {
+    "ID": "[13, 7]",
+    "Kanji": "食事します",
+    "penjelas kanji": "",
+    "Kana": "しょくじします",
+    "penjelas kana": "",
+    "Romaji": "shokujishimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "have a meal, dine"
+  },
+  {
+    "ID": "[6, 2]",
+    "Kanji": "飲みます",
+    "penjelas kanji": "",
+    "Kana": "のみます",
+    "penjelas kana": "",
+    "Romaji": "nomimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "drink"
+  },
+  {
+    "ID": "[16, 11]",
+    "Kanji": "飲みます",
+    "penjelas kanji": "",
+    "Kana": "のみます",
+    "penjelas kana": "",
+    "Romaji": "nomimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "drink alcohol"
+  },
+  {
+    "ID": "[17, 13]",
+    "Kanji": "飲みます",
+    "penjelas kanji": "薬を～",
+    "Kana": "のみます",
+    "penjelas kana": "くすりを～",
+    "Romaji": "nomimasu ",
+    "penjelas romaji": "kusuriwo~",
+    "Meaning (EN)": "take [medicine]"
+  },
+  {
+    "ID": "[27, 1]",
+    "Kanji": "飼います",
+    "penjelas kanji": "",
+    "Kana": "かいます",
+    "penjelas kana": "",
+    "Romaji": "kaimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "keep (a pet), raise (an animal)"
+  },
+  {
+    "ID": "[30, 3]",
+    "Kanji": "飾ります",
+    "penjelas kanji": "",
+    "Kana": "かざります",
+    "penjelas kana": "",
+    "Romaji": "kazarimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "display, decorate"
+  },
+  {
+    "ID": "[33, 2]",
+    "Kanji": "騒ぎます",
+    "penjelas kanji": "",
+    "Kana": "さわぎます",
+    "penjelas kana": "",
+    "Romaji": "sawagimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "make a noise"
+  },
+  {
+    "ID": "[45, 26]",
+    "Kanji": "鳴ります",
+    "penjelas kanji": "",
+    "Kana": "なります",
+    "penjelas kana": "",
+    "Romaji": "narimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "ring"
+  },
+  {
+    "ID": "[46, 30]",
+    "Kanji": "鳴ります",
+    "penjelas kanji": "",
+    "Kana": "なります",
+    "penjelas kana": "",
+    "Romaji": "narimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "ring"
+  },
+  {
+    "ID": "[33, 3]",
+    "Kanji": "",
+    "penjelas kanji": "",
+    "Kana": "あきらめます",
+    "penjelas kana": "",
+    "Romaji": "akiramemasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "give up"
+  },
+  {
+    "ID": "[7, 3]",
+    "Kanji": "",
+    "penjelas kanji": "",
+    "Kana": "あげます",
+    "penjelas kana": "",
+    "Romaji": "agemasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "give"
+  },
+  {
+    "ID": "[9, 2]",
+    "Kanji": "",
+    "penjelas kanji": "",
+    "Kana": "あります",
+    "penjelas kana": "",
+    "Romaji": "arimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "have"
+  },
+  {
+    "ID": "[10, 1]",
+    "Kanji": "",
+    "penjelas kanji": "",
+    "Kana": "あります",
+    "penjelas kana": "",
+    "Romaji": "arimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "exist, be (referring to inanimate things)"
+  },
+  {
+    "ID": "[41, 49]",
+    "Kanji": "",
+    "penjelas kanji": "",
+    "Kana": "いじめます",
+    "penjelas kana": "",
+    "Romaji": "ijimemasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "bully, abuse, ill-treat"
+  },
+  {
+    "ID": "[50, 5]",
+    "Kanji": "",
+    "penjelas kanji": "",
+    "Kana": "いたします",
+    "penjelas kana": "",
+    "Romaji": "itashimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "do (humble equivalent of します)"
+  },
+  {
+    "ID": "[41, 1]",
+    "Kanji": "",
+    "penjelas kanji": "",
+    "Kana": "いただきます",
+    "penjelas kana": "",
+    "Romaji": "itadakimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "receive (humble equivalent of もらいます)"
+  },
+  {
+    "ID": "[50, 3]",
+    "Kanji": "",
+    "penjelas kanji": "",
+    "Kana": "いただきます",
+    "penjelas kana": "",
+    "Romaji": "itadakimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "eat, drink, receive (humble equivalent of たべます, のみます and もらいます)"
+  },
+  {
+    "ID": "[10, 2]",
+    "Kanji": "",
+    "penjelas kanji": "",
+    "Kana": "います",
+    "penjelas kana": "",
+    "Romaji": "imasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "exist, be (referring to animate things)"
+  },
+  {
+    "ID": "[15, 22]",
+    "Kanji": "",
+    "penjelas kanji": "",
+    "Kana": "いらっしゃいます",
+    "penjelas kana": "",
+    "Romaji": "irasshaimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "be (honorific equivalent of います)"
+  },
+  {
+    "ID": "[40, 48]",
+    "Kanji": "",
+    "penjelas kanji": "",
+    "Kana": "いらっしゃいます",
+    "penjelas kana": "",
+    "Romaji": "irasshaimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "come (respectful equivalent of きます)"
+  },
+  {
+    "ID": "[49, 5]",
+    "Kanji": "",
+    "penjelas kanji": "",
+    "Kana": "いらっしゃいます",
+    "penjelas kana": "",
+    "Romaji": "irasshaimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "be, go, come (respectful equivalent of います, いきます and きます)"
+  },
+  {
+    "ID": "[24, 19]",
+    "Kanji": "",
+    "penjelas kanji": "",
+    "Kana": "いれます",
+    "penjelas kana": "コーヒーを～",
+    "Romaji": "iremasu ",
+    "penjelas romaji": "kōhiiwo~",
+    "Meaning (EN)": "make [coffee]"
+  },
+  {
+    "ID": "[50, 10]",
+    "Kanji": "",
+    "penjelas kanji": "",
+    "Kana": "いれます",
+    "penjelas kana": "コーヒーを～",
+    "Romaji": "iremasu ",
+    "penjelas romaji": "kōhiiwo~",
+    "Meaning (EN)": "make [coffee]"
+  },
+  {
+    "ID": "[40, 8]",
+    "Kanji": "",
+    "penjelas kanji": "",
+    "Kana": "うまく いきます",
+    "penjelas kana": "",
+    "Romaji": "umaku ikimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "go well"
+  },
+  {
+    "ID": "[45, 32]",
+    "Kanji": "",
+    "penjelas kanji": "",
+    "Kana": "うまく いきます",
+    "penjelas kana": "",
+    "Romaji": "umaku ikimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "go well"
+  },
+  {
+    "ID": "[28, 60]",
+    "Kanji": "",
+    "penjelas kanji": "",
+    "Kana": "おしゃべりします",
+    "penjelas kana": "",
+    "Romaji": "oshaberishimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "chat"
+  },
+  {
+    "ID": "[49, 7]",
+    "Kanji": "",
+    "penjelas kanji": "",
+    "Kana": "おっしゃいます",
+    "penjelas kana": "",
+    "Romaji": "osshaimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "say, (one's name) is ～ (respectful equivalent of いいます)"
+  },
+  {
+    "ID": "[13, 24]",
+    "Kanji": "",
+    "penjelas kanji": "",
+    "Kana": "おなかが すきます",
+    "penjelas kana": "",
+    "Romaji": "onakaga sukimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "get hungry (when expressing the condition of being hungry, おなかが すきました is used)"
+  },
+  {
+    "ID": "[50, 2]",
+    "Kanji": "",
+    "penjelas kanji": "",
+    "Kana": "おります",
+    "penjelas kana": "",
+    "Romaji": "orimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "be (humble equivalent of います)"
+  },
+  {
+    "ID": "[11, 3]",
+    "Kanji": "",
+    "penjelas kanji": "",
+    "Kana": "かかります",
+    "penjelas kana": "",
+    "Romaji": "kakarimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "take, cost (referring to time or money)"
+  },
+  {
+    "ID": "[39, 6]",
+    "Kanji": "",
+    "penjelas kanji": "",
+    "Kana": "がっかりします",
+    "penjelas kana": "",
+    "Romaji": "gakkarishimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "be disappointed"
+  },
+  {
+    "ID": "[22, 3]",
+    "Kanji": "",
+    "penjelas kanji": "",
+    "Kana": "かぶります",
+    "penjelas kana": "",
+    "Romaji": "kaburimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "put on (a hat, etc.)"
+  },
+  {
+    "ID": "[28, 3]",
+    "Kanji": "",
+    "penjelas kanji": "",
+    "Kana": "かみます",
+    "penjelas kana": "",
+    "Romaji": "kamimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "chew, bite"
+  },
+  {
+    "ID": "[45, 2]",
+    "Kanji": "",
+    "penjelas kanji": "",
+    "Kana": "キャンセルします",
+    "penjelas kana": "",
+    "Romaji": "kyanserushimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "cancel"
+  },
+  {
+    "ID": "[41, 2]",
+    "Kanji": "",
+    "penjelas kanji": "",
+    "Kana": "くださいます",
+    "penjelas kana": "",
+    "Romaji": "kudasaimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "give (respectful equivalent of くれます)"
+  },
+  {
+    "ID": "[35, 7]",
+    "Kanji": "",
+    "penjelas kanji": "",
+    "Kana": "くりっくします",
+    "penjelas kana": "",
+    "Romaji": "kurikkushimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "click"
+  },
+  {
+    "ID": "[24, 1]",
+    "Kanji": "",
+    "penjelas kanji": "",
+    "Kana": "くれます",
+    "penjelas kana": "",
+    "Romaji": "kuremasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "give (me)"
+  },
+  {
+    "ID": "[38, 54]",
+    "Kanji": "",
+    "penjelas kanji": "",
+    "Kana": "けんかします",
+    "penjelas kana": "",
+    "Romaji": "kenkashimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "quarrel, fight"
+  },
+  {
+    "ID": "[39, 8]",
+    "Kanji": "",
+    "penjelas kanji": "",
+    "Kana": "けんかします",
+    "penjelas kana": "",
+    "Romaji": "kenkashimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "quarrel, fight"
+  },
+  {
+    "ID": "[50, 34]",
+    "Kanji": "",
+    "penjelas kanji": "",
+    "Kana": "ございます",
+    "penjelas kana": "",
+    "Romaji": "gozaimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "be (polite equivalent of あります)"
+  },
+  {
+    "ID": "[14, 21]",
+    "Kanji": "",
+    "penjelas kanji": "",
+    "Kana": "コピーします",
+    "penjelas kana": "",
+    "Romaji": "kopiishimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "copy"
+  },
+  {
+    "ID": "[37, 2]",
+    "Kanji": "",
+    "penjelas kanji": "",
+    "Kana": "しかります",
+    "penjelas kana": "",
+    "Romaji": "shikarimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "scold"
+  },
+  {
+    "ID": "[36, 25]",
+    "Kanji": "",
+    "penjelas kanji": "",
+    "Kana": "して いらっしゃいます",
+    "penjelas kana": "",
+    "Romaji": "shite irasshaimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "be doing (respectful equivalent of して います)"
+  },
+  {
+    "ID": "[30, 8]",
+    "Kanji": "",
+    "penjelas kanji": "",
+    "Kana": "しまいます",
+    "penjelas kana": "",
+    "Romaji": "shimaimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "put (things) away"
+  },
+  {
+    "ID": "[6, 10]",
+    "Kanji": "",
+    "penjelas kanji": "",
+    "Kana": "します",
+    "penjelas kana": "",
+    "Romaji": "shimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "do, play"
+  },
+  {
+    "ID": "[22, 5]",
+    "Kanji": "",
+    "penjelas kanji": "",
+    "Kana": "します",
+    "penjelas kana": "ネクタイを～",
+    "Romaji": "shimasu ",
+    "penjelas romaji": "nekutaiwo~",
+    "Meaning (EN)": "put on [tie]"
+  },
+  {
+    "ID": "[34, 50]",
+    "Kanji": "",
+    "penjelas kanji": "",
+    "Kana": "します",
+    "penjelas kana": "ネクタイを～",
+    "Romaji": "shimasu ",
+    "penjelas romaji": "nekutaiwo~",
+    "Meaning (EN)": "put on, wear [a tie]"
+  },
+  {
+    "ID": "[47, 8]",
+    "Kanji": "",
+    "penjelas kanji": "",
+    "Kana": "します",
+    "penjelas kana": "においが～",
+    "Romaji": "shimasu ",
+    "penjelas romaji": "nioiga~",
+    "Meaning (EN)": "smell"
+  },
+  {
+    "ID": "[45, 27]",
+    "Kanji": "",
+    "penjelas kanji": "",
+    "Kana": "セットします",
+    "penjelas kana": "",
+    "Romaji": "settoshimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "set"
+  },
+  {
+    "ID": "[30, 12]",
+    "Kanji": "",
+    "penjelas kanji": "",
+    "Kana": "そのままに します",
+    "penjelas kana": "",
+    "Romaji": "sonomamani shimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "leave thing as they are"
+  },
+  {
+    "ID": "[34, 49]",
+    "Kanji": "",
+    "penjelas kanji": "",
+    "Kana": "たちます",
+    "penjelas kana": "",
+    "Romaji": "tachimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "pass (time)"
+  },
+  {
+    "ID": "[36, 29]",
+    "Kanji": "",
+    "penjelas kanji": "",
+    "Kana": "チャレンジします",
+    "penjelas kana": "",
+    "Romaji": "charenjishimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "challenge"
+  },
+  {
+    "ID": "[46, 26]",
+    "Kanji": "",
+    "penjelas kanji": "",
+    "Kana": "ついて います",
+    "penjelas kana": "",
+    "Romaji": "tsuite imasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "be lucky"
+  },
+  {
+    "ID": "[38, 9]",
+    "Kanji": "",
+    "penjelas kanji": "",
+    "Kana": "つきます",
+    "penjelas kana": "うそを～",
+    "Romaji": "tsukimasu ",
+    "penjelas romaji": "usowo~",
+    "Meaning (EN)": "tell [a lie]"
+  },
+  {
+    "ID": "[14, 1]",
+    "Kanji": "",
+    "penjelas kanji": "",
+    "Kana": "つけます",
+    "penjelas kana": "",
+    "Romaji": "tsukemasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "turn on"
+  },
+  {
+    "ID": "[34, 5]",
+    "Kanji": "",
+    "penjelas kanji": "",
+    "Kana": "つけます",
+    "penjelas kana": "しゅうゆを～",
+    "Romaji": "tsukemasu ",
+    "penjelas romaji": "shūyuwo~",
+    "Meaning (EN)": "put [in soy sauce]"
+  },
+  {
+    "ID": "[18, 1]",
+    "Kanji": "",
+    "penjelas kanji": "",
+    "Kana": "できます",
+    "penjelas kana": "",
+    "Romaji": "dekimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "be able to, can"
+  },
+  {
+    "ID": "[48, 39]",
+    "Kanji": "",
+    "penjelas kanji": "",
+    "Kana": "とらえます",
+    "penjelas kana": "",
+    "Romaji": "toraemasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "catch"
+  },
+  {
+    "ID": "[37, 7]",
+    "Kanji": "",
+    "penjelas kanji": "",
+    "Kana": "とります",
+    "penjelas kana": "",
+    "Romaji": "torimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "rob, steal"
+  },
+  {
+    "ID": "[43, 6]",
+    "Kanji": "",
+    "penjelas kanji": "",
+    "Kana": "とれます",
+    "penjelas kana": "ボタンが～",
+    "Romaji": "toremasu ",
+    "penjelas romaji": "botanga~",
+    "Meaning (EN)": "[a button] come off"
+  },
+  {
+    "ID": "[17, 3]",
+    "Kanji": "",
+    "penjelas kanji": "",
+    "Kana": "なくします",
+    "penjelas kana": "",
+    "Romaji": "nakushimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "lose"
+  },
+  {
+    "ID": "[43, 8]",
+    "Kanji": "",
+    "penjelas kanji": "",
+    "Kana": "なくなります",
+    "penjelas kana": "ガソリンが～",
+    "Romaji": "nakunarimasu ",
+    "penjelas romaji": "gasoringa~",
+    "Meaning (EN)": "[petrol, gasoline] run out, be lost"
+  },
+  {
+    "ID": "[49, 8]",
+    "Kanji": "",
+    "penjelas kanji": "",
+    "Kana": "なさいます",
+    "penjelas kana": "",
+    "Romaji": "nasaimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "do (respectful equivalent of します)"
+  },
+  {
+    "ID": "[19, 5]",
+    "Kanji": "",
+    "penjelas kanji": "",
+    "Kana": "なります",
+    "penjelas kana": "",
+    "Romaji": "narimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "become"
+  },
+  {
+    "ID": "[13, 23]",
+    "Kanji": "",
+    "penjelas kanji": "",
+    "Kana": "のどが かわきます",
+    "penjelas kana": "",
+    "Romaji": "nodoga kawakimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "get thirsty (when expressing the condition of being thirsty, のどが かわきました is used)"
+  },
+  {
+    "ID": "[22, 2]",
+    "Kanji": "",
+    "penjelas kanji": "",
+    "Kana": "はきます",
+    "penjelas kana": "",
+    "Romaji": "hakimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "put on (shoes, trousers, etc.)"
+  },
+  {
+    "ID": "[30, 1]",
+    "Kanji": "",
+    "penjelas kanji": "",
+    "Kana": "はります",
+    "penjelas kana": "",
+    "Romaji": "harimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "put up, post, paste"
+  },
+  {
+    "ID": "[32, 9]",
+    "Kanji": "",
+    "penjelas kanji": "",
+    "Kana": "ひきます",
+    "penjelas kana": "かぜを～",
+    "Romaji": "hikimasu ",
+    "penjelas romaji": "kazewo~",
+    "Meaning (EN)": "catch [a cold]"
+  },
+  {
+    "ID": "[39, 5]",
+    "Kanji": "",
+    "penjelas kanji": "",
+    "Kana": "びっくりします",
+    "penjelas kana": "",
+    "Romaji": "bikkurishimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "be surprised"
+  },
+  {
+    "ID": "[29, 16]",
+    "Kanji": "",
+    "penjelas kanji": "",
+    "Kana": "ふきます",
+    "penjelas kana": "",
+    "Romaji": "fukimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "wipe"
+  },
+  {
+    "ID": "[39, 42]",
+    "Kanji": "",
+    "penjelas kanji": "",
+    "Kana": "ぶつかります",
+    "penjelas kana": "",
+    "Romaji": "butsukarimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "bump, collide"
+  },
+  {
+    "ID": "[29, 13]",
+    "Kanji": "",
+    "penjelas kanji": "",
+    "Kana": "まちがえます",
+    "penjelas kana": "",
+    "Romaji": "machigaemasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "make a mistake"
+  },
+  {
+    "ID": "[30, 7]",
+    "Kanji": "",
+    "penjelas kanji": "",
+    "Kana": "まとめます",
+    "penjelas kana": "",
+    "Romaji": "matomemasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "put ～ together, put ～ in shape, sum up"
+  },
+  {
+    "ID": "[28, 6]",
+    "Kanji": "",
+    "penjelas kanji": "",
+    "Kana": "メモします",
+    "penjelas kana": "",
+    "Romaji": "memoshimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "take a memo"
+  },
+  {
+    "ID": "[7, 4]",
+    "Kanji": "",
+    "penjelas kanji": "",
+    "Kana": "もらいます",
+    "penjelas kana": "",
+    "Romaji": "moraimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "receive"
+  },
+  {
+    "ID": "[36, 45]",
+    "Kanji": "",
+    "penjelas kanji": "",
+    "Kana": "やせます",
+    "penjelas kana": "",
+    "Romaji": "yasemasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "get slim, lose weight"
+  },
+  {
+    "ID": "[39, 11]",
+    "Kanji": "",
+    "penjelas kanji": "",
+    "Kana": "やせます",
+    "penjelas kana": "",
+    "Romaji": "yasemasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "get slim, lose weight"
+  },
+  {
+    "ID": "[26, 5]",
+    "Kanji": "",
+    "penjelas kanji": "",
+    "Kana": "やります",
+    "penjelas kana": "",
+    "Romaji": "yarimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "do"
+  },
+  {
+    "ID": "[41, 3]",
+    "Kanji": "",
+    "penjelas kanji": "",
+    "Kana": "やります",
+    "penjelas kana": "",
+    "Romaji": "yarimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "give (to a younger person, subordinate, animals or plants)"
+  },
+  {
+    "ID": "[32, 67]",
+    "Kanji": "",
+    "penjelas kanji": "",
+    "Kana": "ゆっくり します",
+    "penjelas kana": "",
+    "Romaji": "yukkuri shimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "take one's time"
+  },
+  {
+    "ID": "[33, 13]",
+    "Kanji": "",
+    "penjelas kanji": "",
+    "Kana": "リサイクルします",
+    "penjelas kana": "",
+    "Romaji": "risaikurushimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "recycle"
+  },
+  {
+    "ID": "[9, 1]",
+    "Kanji": "",
+    "penjelas kanji": "",
+    "Kana": "わかります",
+    "penjelas kana": "",
+    "Romaji": "wakarimasu",
+    "penjelas romaji": "",
+    "Meaning (EN)": "understand"
+  }
+]
