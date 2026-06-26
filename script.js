@@ -45,15 +45,18 @@ return text
 
 document.getElementById("submit").onclick=function(){
 
-const user=normalize(
-document.getElementById("answer").value
-);
+const user = normalize(document.getElementById("answer").value);
 
-const kanji=normalize(quiz[index]["Kanji"]);
+const kanji = normalize(quiz[index]["Kanji"]);
+const kana = normalize(quiz[index]["Kana"]);
 
-const kana=normalize(quiz[index]["Kana"]);
+let benar = false;
 
-let benar=user===kanji||user===kana;
+if (user !== "") {
+    benar =
+        (kanji !== "" && user === kanji) ||
+        (kana !== "" && user === kana);
+}
 
 if(benar){
 
